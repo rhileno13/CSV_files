@@ -1,0 +1,2804 @@
+Pseudo_rallies,Gender,Terminal_event,Rally_length,Probability,Lower_limit,Upper_limit 
+Yes,Men,Ball in/out,0.28,0.001,0.000,0.006
+Yes,Men,Ball in/out,0.32,0.012,0.007,0.021
+Yes,Men,Ball in/out,0.36,0.024,0.016,0.035
+Yes,Men,Ball in/out,0.44,0.036,0.026,0.050
+Yes,Men,Ball in/out,0.52,0.041,0.029,0.054
+Yes,Men,Ball in/out,0.56,0.047,0.035,0.061
+Yes,Men,Ball in/out,0.60,0.051,0.038,0.066
+Yes,Men,Ball in/out,0.64,0.057,0.043,0.072
+Yes,Men,Ball in/out,0.68,0.062,0.048,0.078
+Yes,Men,Ball in/out,0.72,0.076,0.061,0.094
+Yes,Men,Ball in/out,0.73,0.080,0.064,0.098
+Yes,Men,Ball in/out,0.76,0.093,0.076,0.112
+Yes,Men,Ball in/out,0.77,0.095,0.078,0.115
+Yes,Men,Ball in/out,0.80,0.113,0.095,0.134
+Yes,Men,Ball in/out,0.83,0.114,0.096,0.135
+Yes,Men,Ball in/out,0.84,0.132,0.111,0.154
+Yes,Men,Ball in/out,0.88,0.141,0.120,0.163
+Yes,Men,Ball in/out,0.90,0.144,0.123,0.167
+Yes,Men,Ball in/out,0.92,0.150,0.128,0.173
+Yes,Men,Ball in/out,0.96,0.153,0.131,0.176
+Yes,Men,Ball in/out,1.00,0.157,0.135,0.180
+Yes,Men,Ball in/out,1.04,0.158,0.136,0.182
+Yes,Men,Ball in/out,1.08,0.161,0.139,0.185
+Yes,Men,Ball in/out,1.12,0.163,0.141,0.187
+Yes,Men,Ball in/out,1.20,0.165,0.143,0.189
+Yes,Men,Ball in/out,1.24,0.167,0.145,0.191
+Yes,Men,Ball in/out,1.32,0.169,0.147,0.193
+Yes,Men,Ball in/out,1.36,0.171,0.149,0.195
+Yes,Men,Ball in/out,1.40,0.172,0.149,0.197
+Yes,Men,Ball in/out,1.40,0.176,0.153,0.201
+Yes,Men,Ball in/out,1.44,0.178,0.155,0.203
+Yes,Men,Ball in/out,1.48,0.185,0.161,0.209
+Yes,Men,Ball in/out,1.68,0.191,0.167,0.216
+Yes,Men,Ball in/out,1.88,0.192,0.168,0.217
+Yes,Men,Ball in/out,1.92,0.193,0.169,0.218
+Yes,Men,Ball in/out,2.23,0.194,0.170,0.219
+Yes,Men,Ball in/out,2.24,0.195,0.171,0.220
+Yes,Men,Ball in/out,2.32,0.196,0.172,0.221
+Yes,Men,Ball in/out,2.40,0.198,0.174,0.223
+Yes,Men,Ball in/out,2.48,0.199,0.175,0.224
+Yes,Men,Ball in/out,2.52,0.200,0.176,0.225
+Yes,Men,Ball in/out,2.60,0.201,0.176,0.226
+Yes,Men,Ball in/out,2.64,0.202,0.177,0.228
+Yes,Men,Ball in/out,2.68,0.203,0.178,0.229
+Yes,Men,Ball in/out,2.80,0.206,0.181,0.232
+Yes,Men,Ball in/out,2.84,0.207,0.182,0.233
+Yes,Men,Ball in/out,2.88,0.209,0.184,0.235
+Yes,Men,Ball in/out,2.96,0.214,0.189,0.240
+Yes,Men,Ball in/out,2.97,0.215,0.190,0.241
+Yes,Men,Ball in/out,3.00,0.217,0.192,0.243
+Yes,Men,Ball in/out,3.04,0.220,0.195,0.247
+Yes,Men,Ball in/out,3.08,0.224,0.199,0.251
+Yes,Men,Ball in/out,3.12,0.227,0.202,0.254
+Yes,Men,Ball in/out,3.16,0.232,0.206,0.258
+Yes,Men,Ball in/out,3.24,0.247,0.220,0.274
+Yes,Men,Ball in/out,3.27,0.248,0.221,0.275
+Yes,Men,Ball in/out,3.28,0.253,0.226,0.281
+Yes,Men,Ball in/out,3.32,0.258,0.231,0.286
+Yes,Men,Ball in/out,3.36,0.266,0.239,0.294
+Yes,Men,Ball in/out,3.44,0.275,0.247,0.303
+Yes,Men,Ball in/out,3.48,0.283,0.255,0.311
+Yes,Men,Ball in/out,3.52,0.285,0.257,0.313
+Yes,Men,Ball in/out,3.56,0.290,0.262,0.319
+Yes,Men,Ball in/out,3.64,0.304,0.276,0.333
+Yes,Men,Ball in/out,3.68,0.310,0.282,0.340
+Yes,Men,Ball in/out,3.72,0.313,0.285,0.343
+Yes,Men,Ball in/out,3.73,0.316,0.287,0.345
+Yes,Men,Ball in/out,3.76,0.327,0.298,0.356
+Yes,Men,Ball in/out,3.80,0.335,0.306,0.365
+Yes,Men,Ball in/out,3.84,0.347,0.318,0.377
+Yes,Men,Ball in/out,3.88,0.356,0.326,0.385
+Yes,Men,Ball in/out,3.92,0.366,0.336,0.396
+Yes,Men,Ball in/out,3.96,0.379,0.349,0.409
+Yes,Men,Ball in/out,4.04,0.404,0.373,0.434
+Yes,Men,Ball in/out,4.08,0.410,0.379,0.441
+Yes,Men,Ball in/out,4.12,0.420,0.389,0.451
+Yes,Men,Ball in/out,4.16,0.432,0.400,0.462
+Yes,Men,Ball in/out,4.24,0.452,0.421,0.483
+Yes,Men,Ball in/out,4.28,0.460,0.429,0.491
+Yes,Men,Ball in/out,4.32,0.472,0.440,0.503
+Yes,Men,Ball in/out,4.36,0.481,0.449,0.512
+Yes,Men,Ball in/out,4.37,0.482,0.450,0.513
+Yes,Men,Ball in/out,4.40,0.490,0.459,0.521
+Yes,Men,Ball in/out,4.44,0.492,0.461,0.523
+Yes,Men,Ball in/out,4.48,0.504,0.472,0.535
+Yes,Men,Ball in/out,4.52,0.512,0.480,0.543
+Yes,Men,Ball in/out,4.56,0.520,0.489,0.551
+Yes,Men,Ball in/out,4.60,0.529,0.497,0.560
+Yes,Men,Ball in/out,4.64,0.534,0.502,0.565
+Yes,Men,Ball in/out,4.68,0.540,0.508,0.571
+Yes,Men,Ball in/out,4.72,0.546,0.515,0.577
+Yes,Men,Ball in/out,4.76,0.554,0.522,0.584
+Yes,Men,Ball in/out,4.88,0.564,0.532,0.595
+Yes,Men,Ball in/out,4.92,0.568,0.537,0.599
+Yes,Men,Ball in/out,4.96,0.575,0.543,0.605
+Yes,Men,Ball in/out,5.00,0.580,0.548,0.610
+Yes,Men,Ball in/out,5.04,0.587,0.556,0.617
+Yes,Men,Ball in/out,5.08,0.592,0.561,0.623
+Yes,Men,Ball in/out,5.12,0.596,0.564,0.626
+Yes,Men,Ball in/out,5.16,0.597,0.565,0.627
+Yes,Men,Ball in/out,5.17,0.598,0.566,0.628
+Yes,Men,Ball in/out,5.24,0.602,0.570,0.632
+Yes,Men,Ball in/out,5.27,0.603,0.571,0.633
+Yes,Men,Ball in/out,5.28,0.605,0.574,0.635
+Yes,Men,Ball in/out,5.32,0.610,0.579,0.640
+Yes,Men,Ball in/out,5.36,0.611,0.580,0.641
+Yes,Men,Ball in/out,5.37,0.612,0.581,0.642
+Yes,Men,Ball in/out,5.44,0.620,0.588,0.650
+Yes,Men,Ball in/out,5.52,0.623,0.592,0.653
+Yes,Men,Ball in/out,5.56,0.624,0.593,0.654
+Yes,Men,Ball in/out,5.60,0.625,0.594,0.655
+Yes,Men,Ball in/out,5.60,0.627,0.596,0.657
+Yes,Men,Ball in/out,5.64,0.629,0.598,0.659
+Yes,Men,Ball in/out,5.68,0.631,0.600,0.661
+Yes,Men,Ball in/out,5.72,0.632,0.601,0.662
+Yes,Men,Ball in/out,5.77,0.634,0.602,0.663
+Yes,Men,Ball in/out,5.80,0.636,0.604,0.665
+Yes,Men,Ball in/out,5.88,0.638,0.607,0.667
+Yes,Men,Ball in/out,5.92,0.640,0.609,0.669
+Yes,Men,Ball in/out,6.03,0.641,0.610,0.670
+Yes,Men,Ball in/out,6.04,0.642,0.611,0.671
+Yes,Men,Ball in/out,6.13,0.643,0.612,0.672
+Yes,Men,Ball in/out,6.16,0.644,0.613,0.673
+Yes,Men,Ball in/out,6.24,0.645,0.614,0.674
+Yes,Men,Ball in/out,6.44,0.646,0.615,0.675
+Yes,Men,Ball in/out,6.52,0.647,0.616,0.677
+Yes,Men,Ball in/out,6.56,0.648,0.617,0.678
+Yes,Men,Ball in/out,6.60,0.649,0.618,0.679
+Yes,Men,Ball in/out,6.68,0.652,0.621,0.681
+Yes,Men,Ball in/out,6.72,0.654,0.623,0.683
+Yes,Men,Ball in/out,6.76,0.655,0.624,0.684
+Yes,Men,Ball in/out,6.84,0.658,0.627,0.687
+Yes,Men,Ball in/out,6.88,0.659,0.628,0.688
+Yes,Men,Ball in/out,6.96,0.660,0.629,0.689
+Yes,Men,Ball in/out,7.04,0.662,0.631,0.691
+Yes,Men,Ball in/out,7.08,0.669,0.638,0.697
+Yes,Men,Ball in/out,7.10,0.670,0.639,0.698
+Yes,Men,Ball in/out,7.12,0.672,0.641,0.700
+Yes,Men,Ball in/out,7.16,0.673,0.642,0.701
+Yes,Men,Ball in/out,7.20,0.676,0.645,0.705
+Yes,Men,Ball in/out,7.24,0.677,0.647,0.706
+Yes,Men,Ball in/out,7.28,0.678,0.648,0.707
+Yes,Men,Ball in/out,7.32,0.681,0.651,0.710
+Yes,Men,Ball in/out,7.40,0.682,0.652,0.711
+Yes,Men,Ball in/out,7.44,0.686,0.655,0.714
+Yes,Men,Ball in/out,7.48,0.689,0.658,0.717
+Yes,Men,Ball in/out,7.52,0.690,0.660,0.718
+Yes,Men,Ball in/out,7.60,0.692,0.662,0.720
+Yes,Men,Ball in/out,7.68,0.694,0.664,0.722
+Yes,Men,Ball in/out,7.72,0.696,0.666,0.724
+Yes,Men,Ball in/out,7.76,0.697,0.667,0.725
+Yes,Men,Ball in/out,7.83,0.703,0.673,0.731
+Yes,Men,Ball in/out,7.84,0.705,0.675,0.733
+Yes,Men,Ball in/out,7.88,0.709,0.679,0.737
+Yes,Men,Ball in/out,7.92,0.711,0.681,0.739
+Yes,Men,Ball in/out,7.96,0.714,0.685,0.742
+Yes,Men,Ball in/out,8.00,0.717,0.687,0.744
+Yes,Men,Ball in/out,8.04,0.719,0.689,0.746
+Yes,Men,Ball in/out,8.08,0.721,0.691,0.748
+Yes,Men,Ball in/out,8.12,0.724,0.695,0.751
+Yes,Men,Ball in/out,8.16,0.725,0.696,0.752
+Yes,Men,Ball in/out,8.20,0.727,0.698,0.754
+Yes,Men,Ball in/out,8.24,0.728,0.699,0.755
+Yes,Men,Ball in/out,8.28,0.729,0.700,0.756
+Yes,Men,Ball in/out,8.32,0.733,0.703,0.760
+Yes,Men,Ball in/out,8.36,0.735,0.706,0.762
+Yes,Men,Ball in/out,8.44,0.738,0.709,0.765
+Yes,Men,Ball in/out,8.48,0.741,0.712,0.768
+Yes,Men,Ball in/out,8.52,0.743,0.714,0.770
+Yes,Men,Ball in/out,8.56,0.745,0.716,0.771
+Yes,Men,Ball in/out,8.60,0.747,0.718,0.773
+Yes,Men,Ball in/out,8.68,0.749,0.720,0.775
+Yes,Men,Ball in/out,8.76,0.751,0.722,0.777
+Yes,Men,Ball in/out,8.80,0.754,0.726,0.780
+Yes,Men,Ball in/out,8.84,0.755,0.727,0.781
+Yes,Men,Ball in/out,8.88,0.756,0.728,0.782
+Yes,Men,Ball in/out,8.92,0.757,0.729,0.783
+Yes,Men,Ball in/out,9.00,0.761,0.732,0.787
+Yes,Men,Ball in/out,9.04,0.762,0.733,0.788
+Yes,Men,Ball in/out,9.07,0.763,0.735,0.789
+Yes,Men,Ball in/out,9.08,0.764,0.736,0.790
+Yes,Men,Ball in/out,9.12,0.765,0.737,0.791
+Yes,Men,Ball in/out,9.16,0.766,0.738,0.792
+Yes,Men,Ball in/out,9.24,0.769,0.741,0.795
+Yes,Men,Ball in/out,9.40,0.773,0.745,0.798
+Yes,Men,Ball in/out,9.44,0.774,0.746,0.799
+Yes,Men,Ball in/out,9.48,0.776,0.748,0.801
+Yes,Men,Ball in/out,9.56,0.777,0.749,0.802
+Yes,Men,Ball in/out,9.72,0.778,0.750,0.803
+Yes,Men,Ball in/out,9.76,0.779,0.752,0.804
+Yes,Men,Ball in/out,9.84,0.781,0.754,0.806
+Yes,Men,Ball in/out,9.88,0.783,0.755,0.807
+Yes,Men,Ball in/out,9.92,0.784,0.756,0.808
+Yes,Men,Ball in/out,9.96,0.785,0.757,0.810
+Yes,Men,Ball in/out,10.00,0.786,0.758,0.811
+Yes,Men,Ball in/out,10.08,0.787,0.759,0.812
+Yes,Men,Ball in/out,10.12,0.788,0.761,0.813
+Yes,Men,Ball in/out,10.13,0.789,0.762,0.814
+Yes,Men,Ball in/out,10.16,0.790,0.763,0.815
+Yes,Men,Ball in/out,10.24,0.791,0.764,0.816
+Yes,Men,Ball in/out,10.28,0.792,0.765,0.817
+Yes,Men,Ball in/out,10.36,0.793,0.766,0.818
+Yes,Men,Ball in/out,10.44,0.797,0.770,0.821
+Yes,Men,Ball in/out,10.60,0.798,0.771,0.822
+Yes,Men,Ball in/out,10.76,0.799,0.772,0.823
+Yes,Men,Ball in/out,10.80,0.801,0.774,0.825
+Yes,Men,Ball in/out,10.84,0.802,0.775,0.826
+Yes,Men,Ball in/out,10.88,0.803,0.777,0.827
+Yes,Men,Ball in/out,10.96,0.807,0.780,0.830
+Yes,Men,Ball in/out,11.03,0.808,0.781,0.831
+Yes,Men,Ball in/out,11.08,0.809,0.782,0.833
+Yes,Men,Ball in/out,11.16,0.812,0.786,0.836
+Yes,Men,Ball in/out,11.20,0.813,0.787,0.837
+Yes,Men,Ball in/out,11.28,0.814,0.788,0.838
+Yes,Men,Ball in/out,11.32,0.817,0.790,0.840
+Yes,Men,Ball in/out,11.40,0.818,0.792,0.841
+Yes,Men,Ball in/out,11.44,0.819,0.793,0.842
+Yes,Men,Ball in/out,11.52,0.820,0.794,0.843
+Yes,Men,Ball in/out,11.56,0.821,0.795,0.844
+Yes,Men,Ball in/out,11.67,0.823,0.798,0.846
+Yes,Men,Ball in/out,11.68,0.827,0.801,0.850
+Yes,Men,Ball in/out,11.72,0.829,0.803,0.852
+Yes,Men,Ball in/out,11.76,0.830,0.805,0.853
+Yes,Men,Ball in/out,11.88,0.831,0.806,0.854
+Yes,Men,Ball in/out,12.00,0.833,0.808,0.856
+Yes,Men,Ball in/out,12.04,0.835,0.809,0.857
+Yes,Men,Ball in/out,12.12,0.837,0.812,0.859
+Yes,Men,Ball in/out,12.13,0.838,0.813,0.860
+Yes,Men,Ball in/out,12.16,0.839,0.814,0.861
+Yes,Men,Ball in/out,12.20,0.841,0.816,0.863
+Yes,Men,Ball in/out,12.28,0.842,0.817,0.864
+Yes,Men,Ball in/out,12.32,0.845,0.820,0.866
+Yes,Men,Ball in/out,12.33,0.846,0.821,0.867
+Yes,Men,Ball in/out,12.36,0.847,0.822,0.868
+Yes,Men,Ball in/out,12.44,0.848,0.823,0.869
+Yes,Men,Ball in/out,12.48,0.849,0.825,0.871
+Yes,Men,Ball in/out,12.52,0.850,0.826,0.872
+Yes,Men,Ball in/out,12.60,0.851,0.827,0.873
+Yes,Men,Ball in/out,12.68,0.854,0.829,0.875
+Yes,Men,Ball in/out,12.76,0.856,0.832,0.877
+Yes,Men,Ball in/out,12.80,0.857,0.833,0.878
+Yes,Men,Ball in/out,12.88,0.858,0.834,0.879
+Yes,Men,Ball in/out,12.92,0.859,0.835,0.880
+Yes,Men,Ball in/out,13.08,0.860,0.836,0.881
+Yes,Men,Ball in/out,13.32,0.861,0.838,0.882
+Yes,Men,Ball in/out,13.36,0.863,0.839,0.883
+Yes,Men,Ball in/out,13.40,0.864,0.840,0.884
+Yes,Men,Ball in/out,13.56,0.865,0.841,0.885
+Yes,Men,Ball in/out,13.64,0.866,0.842,0.886
+Yes,Men,Ball in/out,13.68,0.867,0.844,0.887
+Yes,Men,Ball in/out,13.88,0.869,0.846,0.889
+Yes,Men,Ball in/out,13.92,0.871,0.847,0.890
+Yes,Men,Ball in/out,14.00,0.872,0.848,0.892
+Yes,Men,Ball in/out,14.16,0.874,0.851,0.894
+Yes,Men,Ball in/out,14.20,0.875,0.852,0.895
+Yes,Men,Ball in/out,14.28,0.876,0.853,0.896
+Yes,Men,Ball in/out,14.52,0.877,0.854,0.897
+Yes,Men,Ball in/out,14.56,0.878,0.856,0.898
+Yes,Men,Ball in/out,14.68,0.880,0.857,0.899
+Yes,Men,Ball in/out,14.72,0.881,0.858,0.900
+Yes,Men,Ball in/out,14.76,0.882,0.859,0.901
+Yes,Men,Ball in/out,14.80,0.883,0.861,0.902
+Yes,Men,Ball in/out,14.83,0.884,0.862,0.903
+Yes,Men,Ball in/out,15.08,0.885,0.863,0.904
+Yes,Men,Ball in/out,15.48,0.886,0.864,0.905
+Yes,Men,Ball in/out,15.72,0.888,0.865,0.906
+Yes,Men,Ball in/out,15.76,0.889,0.867,0.907
+Yes,Men,Ball in/out,15.88,0.891,0.869,0.909
+Yes,Men,Ball in/out,15.96,0.892,0.870,0.910
+Yes,Men,Ball in/out,16.00,0.893,0.871,0.911
+Yes,Men,Ball in/out,16.04,0.894,0.873,0.912
+Yes,Men,Ball in/out,16.12,0.895,0.874,0.913
+Yes,Men,Ball in/out,16.24,0.897,0.875,0.914
+Yes,Men,Ball in/out,16.36,0.898,0.876,0.916
+Yes,Men,Ball in/out,16.52,0.899,0.878,0.917
+Yes,Men,Ball in/out,16.60,0.900,0.879,0.918
+Yes,Men,Ball in/out,16.64,0.901,0.880,0.919
+Yes,Men,Ball in/out,16.72,0.902,0.881,0.920
+Yes,Men,Ball in/out,16.76,0.904,0.884,0.922
+Yes,Men,Ball in/out,16.88,0.906,0.885,0.923
+Yes,Men,Ball in/out,16.92,0.907,0.886,0.924
+Yes,Men,Ball in/out,17.04,0.908,0.888,0.925
+Yes,Men,Ball in/out,17.60,0.909,0.889,0.926
+Yes,Men,Ball in/out,17.76,0.910,0.890,0.927
+Yes,Men,Ball in/out,18.36,0.911,0.891,0.928
+Yes,Men,Ball in/out,18.50,0.913,0.893,0.929
+Yes,Men,Ball in/out,18.80,0.914,0.894,0.930
+Yes,Men,Ball in/out,18.97,0.915,0.895,0.931
+Yes,Men,Ball in/out,20.28,0.916,0.896,0.932
+Yes,Men,Ball in/out,20.40,0.917,0.898,0.933
+Yes,Men,Ball in/out,20.64,0.920,0.900,0.935
+Yes,Men,Ball in/out,20.80,0.921,0.901,0.936
+Yes,Men,Ball in/out,20.88,0.922,0.903,0.937
+Yes,Men,Ball in/out,20.92,0.923,0.904,0.939
+Yes,Men,Ball in/out,21.04,0.924,0.905,0.940
+Yes,Men,Ball in/out,21.24,0.925,0.907,0.941
+Yes,Men,Ball in/out,21.28,0.927,0.908,0.942
+Yes,Men,Ball in/out,21.32,0.928,0.909,0.943
+Yes,Men,Ball in/out,21.96,0.929,0.910,0.944
+Yes,Men,Ball in/out,23.60,0.930,0.912,0.945
+Yes,Men,Ball in/out,23.80,0.931,0.913,0.946
+Yes,Men,Ball in/out,23.84,0.932,0.914,0.947
+Yes,Men,Ball in/out,24.32,0.934,0.916,0.948
+Yes,Men,Ball in/out,26.52,0.935,0.917,0.949
+Yes,Men,Ball in/out,28.30,0.936,0.918,0.950
+Yes,Men,Ball in/out,29.12,0.937,0.920,0.951
+Yes,Women,Ball in/out,0.40,0.003,0.001,0.009
+Yes,Women,Ball in/out,0.47,0.006,0.002,0.014
+Yes,Women,Ball in/out,0.50,0.011,0.006,0.021
+Yes,Women,Ball in/out,0.53,0.019,0.011,0.030
+Yes,Women,Ball in/out,0.57,0.020,0.012,0.032
+Yes,Women,Ball in/out,0.63,0.044,0.031,0.060
+Yes,Women,Ball in/out,0.67,0.052,0.038,0.069
+Yes,Women,Ball in/out,0.70,0.054,0.040,0.072
+Yes,Women,Ball in/out,0.87,0.068,0.052,0.087
+Yes,Women,Ball in/out,0.93,0.076,0.059,0.096
+Yes,Women,Ball in/out,0.97,0.081,0.063,0.101
+Yes,Women,Ball in/out,1.03,0.087,0.069,0.108
+Yes,Women,Ball in/out,1.07,0.088,0.070,0.110
+Yes,Women,Ball in/out,1.10,0.092,0.073,0.114
+Yes,Women,Ball in/out,1.13,0.095,0.076,0.116
+Yes,Women,Ball in/out,1.17,0.096,0.077,0.118
+Yes,Women,Ball in/out,1.23,0.099,0.079,0.121
+Yes,Women,Ball in/out,1.27,0.101,0.081,0.123
+Yes,Women,Ball in/out,1.30,0.106,0.086,0.129
+Yes,Women,Ball in/out,1.33,0.110,0.089,0.133
+Yes,Women,Ball in/out,1.37,0.119,0.097,0.143
+Yes,Women,Ball in/out,1.43,0.130,0.108,0.155
+Yes,Women,Ball in/out,1.47,0.135,0.113,0.160
+Yes,Women,Ball in/out,1.50,0.137,0.114,0.162
+Yes,Women,Ball in/out,1.53,0.139,0.116,0.164
+Yes,Women,Ball in/out,1.57,0.142,0.118,0.167
+Yes,Women,Ball in/out,1.60,0.143,0.120,0.168
+Yes,Women,Ball in/out,1.63,0.144,0.121,0.170
+Yes,Women,Ball in/out,1.80,0.147,0.123,0.172
+Yes,Women,Ball in/out,2.17,0.148,0.124,0.174
+Yes,Women,Ball in/out,2.20,0.149,0.125,0.175
+Yes,Women,Ball in/out,2.27,0.151,0.127,0.176
+Yes,Women,Ball in/out,2.30,0.152,0.128,0.178
+Yes,Women,Ball in/out,2.50,0.157,0.132,0.183
+Yes,Women,Ball in/out,2.57,0.158,0.134,0.184
+Yes,Women,Ball in/out,2.63,0.159,0.135,0.186
+Yes,Women,Ball in/out,2.67,0.161,0.136,0.187
+Yes,Women,Ball in/out,2.70,0.162,0.137,0.189
+Yes,Women,Ball in/out,2.77,0.163,0.138,0.190
+Yes,Women,Ball in/out,2.80,0.164,0.140,0.191
+Yes,Women,Ball in/out,2.83,0.166,0.141,0.193
+Yes,Women,Ball in/out,2.87,0.167,0.142,0.194
+Yes,Women,Ball in/out,2.90,0.168,0.143,0.195
+Yes,Women,Ball in/out,3.10,0.171,0.146,0.198
+Yes,Women,Ball in/out,3.17,0.172,0.147,0.199
+Yes,Women,Ball in/out,3.20,0.175,0.149,0.202
+Yes,Women,Ball in/out,3.23,0.178,0.153,0.206
+Yes,Women,Ball in/out,3.33,0.180,0.154,0.207
+Yes,Women,Ball in/out,3.37,0.181,0.155,0.209
+Yes,Women,Ball in/out,3.40,0.184,0.157,0.211
+Yes,Women,Ball in/out,3.47,0.189,0.162,0.217
+Yes,Women,Ball in/out,3.50,0.194,0.167,0.222
+Yes,Women,Ball in/out,3.53,0.198,0.171,0.226
+Yes,Women,Ball in/out,3.57,0.201,0.174,0.230
+Yes,Women,Ball in/out,3.60,0.203,0.175,0.231
+Yes,Women,Ball in/out,3.63,0.208,0.180,0.237
+Yes,Women,Ball in/out,3.67,0.210,0.183,0.239
+Yes,Women,Ball in/out,3.70,0.214,0.186,0.243
+Yes,Women,Ball in/out,3.77,0.222,0.193,0.251
+Yes,Women,Ball in/out,3.80,0.224,0.196,0.254
+Yes,Women,Ball in/out,3.83,0.229,0.201,0.259
+Yes,Women,Ball in/out,3.87,0.236,0.207,0.266
+Yes,Women,Ball in/out,3.90,0.240,0.210,0.270
+Yes,Women,Ball in/out,3.93,0.245,0.215,0.275
+Yes,Women,Ball in/out,3.97,0.252,0.223,0.283
+Yes,Women,Ball in/out,4.00,0.257,0.227,0.288
+Yes,Women,Ball in/out,4.03,0.265,0.235,0.296
+Yes,Women,Ball in/out,4.07,0.269,0.238,0.300
+Yes,Women,Ball in/out,4.10,0.278,0.247,0.309
+Yes,Women,Ball in/out,4.13,0.288,0.257,0.320
+Yes,Women,Ball in/out,4.17,0.292,0.260,0.324
+Yes,Women,Ball in/out,4.20,0.296,0.264,0.328
+Yes,Women,Ball in/out,4.23,0.302,0.270,0.334
+Yes,Women,Ball in/out,4.27,0.315,0.283,0.347
+Yes,Women,Ball in/out,4.30,0.324,0.291,0.357
+Yes,Women,Ball in/out,4.33,0.338,0.305,0.371
+Yes,Women,Ball in/out,4.43,0.357,0.324,0.390
+Yes,Women,Ball in/out,4.47,0.367,0.333,0.401
+Yes,Women,Ball in/out,4.50,0.375,0.341,0.409
+Yes,Women,Ball in/out,4.53,0.384,0.350,0.418
+Yes,Women,Ball in/out,4.57,0.389,0.355,0.423
+Yes,Women,Ball in/out,4.60,0.397,0.362,0.431
+Yes,Women,Ball in/out,4.63,0.406,0.371,0.440
+Yes,Women,Ball in/out,4.67,0.409,0.375,0.444
+Yes,Women,Ball in/out,4.70,0.416,0.381,0.450
+Yes,Women,Ball in/out,4.73,0.425,0.390,0.459
+Yes,Women,Ball in/out,4.77,0.430,0.395,0.464
+Yes,Women,Ball in/out,4.80,0.438,0.403,0.472
+Yes,Women,Ball in/out,4.83,0.447,0.412,0.481
+Yes,Women,Ball in/out,4.87,0.451,0.416,0.485
+Yes,Women,Ball in/out,4.90,0.456,0.421,0.491
+Yes,Women,Ball in/out,4.93,0.460,0.425,0.494
+Yes,Women,Ball in/out,4.97,0.464,0.429,0.498
+Yes,Women,Ball in/out,5.03,0.477,0.441,0.511
+Yes,Women,Ball in/out,5.07,0.483,0.448,0.518
+Yes,Women,Ball in/out,5.10,0.490,0.454,0.524
+Yes,Women,Ball in/out,5.13,0.491,0.456,0.526
+Yes,Women,Ball in/out,5.20,0.499,0.463,0.533
+Yes,Women,Ball in/out,5.23,0.501,0.466,0.536
+Yes,Women,Ball in/out,5.30,0.508,0.472,0.542
+Yes,Women,Ball in/out,5.33,0.512,0.476,0.546
+Yes,Women,Ball in/out,5.40,0.517,0.481,0.551
+Yes,Women,Ball in/out,5.43,0.518,0.483,0.553
+Yes,Women,Ball in/out,5.47,0.521,0.485,0.555
+Yes,Women,Ball in/out,5.50,0.524,0.488,0.558
+Yes,Women,Ball in/out,5.53,0.529,0.493,0.563
+Yes,Women,Ball in/out,5.57,0.531,0.496,0.566
+Yes,Women,Ball in/out,5.63,0.534,0.498,0.568
+Yes,Women,Ball in/out,5.67,0.535,0.500,0.570
+Yes,Women,Ball in/out,5.70,0.537,0.501,0.571
+Yes,Women,Ball in/out,5.73,0.538,0.502,0.572
+Yes,Women,Ball in/out,5.83,0.539,0.503,0.573
+Yes,Women,Ball in/out,5.90,0.543,0.507,0.577
+Yes,Women,Ball in/out,5.93,0.544,0.509,0.579
+Yes,Women,Ball in/out,5.97,0.546,0.510,0.580
+Yes,Women,Ball in/out,6.00,0.547,0.511,0.581
+Yes,Women,Ball in/out,6.10,0.550,0.514,0.584
+Yes,Women,Ball in/out,6.17,0.553,0.518,0.588
+Yes,Women,Ball in/out,6.20,0.555,0.519,0.589
+Yes,Women,Ball in/out,6.27,0.556,0.520,0.590
+Yes,Women,Ball in/out,6.33,0.557,0.522,0.591
+Yes,Women,Ball in/out,6.40,0.559,0.523,0.593
+Yes,Women,Ball in/out,6.43,0.560,0.524,0.594
+Yes,Women,Ball in/out,6.47,0.563,0.527,0.597
+Yes,Women,Ball in/out,6.50,0.564,0.528,0.598
+Yes,Women,Ball in/out,6.53,0.567,0.531,0.600
+Yes,Women,Ball in/out,6.73,0.568,0.532,0.602
+Yes,Women,Ball in/out,6.77,0.570,0.535,0.604
+Yes,Women,Ball in/out,6.80,0.573,0.537,0.607
+Yes,Women,Ball in/out,6.87,0.574,0.539,0.608
+Yes,Women,Ball in/out,6.93,0.576,0.540,0.610
+Yes,Women,Ball in/out,6.97,0.577,0.541,0.611
+Yes,Women,Ball in/out,7.00,0.578,0.543,0.612
+Yes,Women,Ball in/out,7.07,0.580,0.544,0.613
+Yes,Women,Ball in/out,7.13,0.585,0.549,0.619
+Yes,Women,Ball in/out,7.17,0.587,0.552,0.621
+Yes,Women,Ball in/out,7.27,0.591,0.556,0.625
+Yes,Women,Ball in/out,7.30,0.593,0.557,0.626
+Yes,Women,Ball in/out,7.37,0.594,0.559,0.628
+Yes,Women,Ball in/out,7.40,0.595,0.560,0.629
+Yes,Women,Ball in/out,7.43,0.597,0.561,0.630
+Yes,Women,Ball in/out,7.47,0.598,0.562,0.631
+Yes,Women,Ball in/out,7.53,0.599,0.564,0.633
+Yes,Women,Ball in/out,7.63,0.602,0.566,0.635
+Yes,Women,Ball in/out,7.67,0.603,0.568,0.637
+Yes,Women,Ball in/out,7.70,0.604,0.569,0.638
+Yes,Women,Ball in/out,7.73,0.607,0.572,0.640
+Yes,Women,Ball in/out,7.77,0.608,0.573,0.642
+Yes,Women,Ball in/out,7.80,0.611,0.576,0.644
+Yes,Women,Ball in/out,7.90,0.615,0.580,0.648
+Yes,Women,Ball in/out,7.93,0.619,0.584,0.652
+Yes,Women,Ball in/out,7.97,0.625,0.590,0.658
+Yes,Women,Ball in/out,8.03,0.633,0.598,0.666
+Yes,Women,Ball in/out,8.07,0.637,0.602,0.670
+Yes,Women,Ball in/out,8.10,0.640,0.605,0.673
+Yes,Women,Ball in/out,8.17,0.641,0.606,0.674
+Yes,Women,Ball in/out,8.23,0.644,0.609,0.676
+Yes,Women,Ball in/out,8.27,0.646,0.612,0.679
+Yes,Women,Ball in/out,8.40,0.649,0.614,0.682
+Yes,Women,Ball in/out,8.43,0.652,0.617,0.684
+Yes,Women,Ball in/out,8.47,0.654,0.620,0.687
+Yes,Women,Ball in/out,8.50,0.656,0.621,0.688
+Yes,Women,Ball in/out,8.53,0.661,0.626,0.693
+Yes,Women,Ball in/out,8.63,0.666,0.632,0.698
+Yes,Women,Ball in/out,8.70,0.672,0.637,0.703
+Yes,Women,Ball in/out,8.73,0.673,0.639,0.705
+Yes,Women,Ball in/out,8.77,0.674,0.640,0.706
+Yes,Women,Ball in/out,8.83,0.678,0.644,0.710
+Yes,Women,Ball in/out,8.90,0.680,0.645,0.711
+Yes,Women,Ball in/out,8.93,0.681,0.647,0.712
+Yes,Women,Ball in/out,9.17,0.684,0.649,0.715
+Yes,Women,Ball in/out,9.23,0.685,0.651,0.716
+Yes,Women,Ball in/out,9.27,0.688,0.654,0.719
+Yes,Women,Ball in/out,9.30,0.689,0.655,0.720
+Yes,Women,Ball in/out,9.37,0.690,0.656,0.722
+Yes,Women,Ball in/out,9.43,0.696,0.662,0.727
+Yes,Women,Ball in/out,9.50,0.697,0.663,0.728
+Yes,Women,Ball in/out,9.57,0.701,0.667,0.732
+Yes,Women,Ball in/out,9.67,0.704,0.670,0.735
+Yes,Women,Ball in/out,9.73,0.705,0.671,0.736
+Yes,Women,Ball in/out,9.77,0.706,0.673,0.737
+Yes,Women,Ball in/out,9.80,0.708,0.674,0.738
+Yes,Women,Ball in/out,9.83,0.710,0.677,0.741
+Yes,Women,Ball in/out,9.87,0.712,0.678,0.742
+Yes,Women,Ball in/out,9.90,0.714,0.681,0.745
+Yes,Women,Ball in/out,10.03,0.716,0.682,0.746
+Yes,Women,Ball in/out,10.07,0.717,0.684,0.747
+Yes,Women,Ball in/out,10.20,0.721,0.688,0.751
+Yes,Women,Ball in/out,10.23,0.722,0.689,0.753
+Yes,Women,Ball in/out,10.27,0.724,0.691,0.754
+Yes,Women,Ball in/out,10.33,0.725,0.692,0.755
+Yes,Women,Ball in/out,10.37,0.726,0.693,0.757
+Yes,Women,Ball in/out,10.47,0.730,0.698,0.760
+Yes,Women,Ball in/out,10.57,0.732,0.699,0.762
+Yes,Women,Ball in/out,10.63,0.733,0.700,0.763
+Yes,Women,Ball in/out,10.67,0.734,0.702,0.764
+Yes,Women,Ball in/out,10.83,0.737,0.704,0.767
+Yes,Women,Ball in/out,10.93,0.739,0.706,0.768
+Yes,Women,Ball in/out,10.97,0.740,0.707,0.769
+Yes,Women,Ball in/out,11.07,0.741,0.709,0.771
+Yes,Women,Ball in/out,11.10,0.743,0.710,0.772
+Yes,Women,Ball in/out,11.20,0.747,0.714,0.776
+Yes,Women,Ball in/out,11.23,0.748,0.716,0.777
+Yes,Women,Ball in/out,11.27,0.749,0.717,0.778
+Yes,Women,Ball in/out,11.47,0.752,0.720,0.781
+Yes,Women,Ball in/out,11.57,0.755,0.723,0.784
+Yes,Women,Ball in/out,11.60,0.756,0.724,0.785
+Yes,Women,Ball in/out,11.63,0.757,0.725,0.786
+Yes,Women,Ball in/out,11.70,0.759,0.727,0.787
+Yes,Women,Ball in/out,11.73,0.761,0.730,0.790
+Yes,Women,Ball in/out,11.80,0.763,0.731,0.791
+Yes,Women,Ball in/out,11.83,0.764,0.732,0.793
+Yes,Women,Ball in/out,11.87,0.765,0.734,0.794
+Yes,Women,Ball in/out,11.90,0.771,0.739,0.799
+Yes,Women,Ball in/out,11.93,0.772,0.741,0.800
+Yes,Women,Ball in/out,11.97,0.775,0.744,0.803
+Yes,Women,Ball in/out,12.03,0.776,0.745,0.804
+Yes,Women,Ball in/out,12.07,0.778,0.746,0.805
+Yes,Women,Ball in/out,12.10,0.779,0.748,0.807
+Yes,Women,Ball in/out,12.20,0.780,0.749,0.808
+Yes,Women,Ball in/out,12.27,0.782,0.751,0.809
+Yes,Women,Ball in/out,12.43,0.783,0.752,0.811
+Yes,Women,Ball in/out,12.47,0.784,0.753,0.812
+Yes,Women,Ball in/out,12.50,0.786,0.755,0.813
+Yes,Women,Ball in/out,12.53,0.787,0.756,0.814
+Yes,Women,Ball in/out,12.57,0.790,0.759,0.817
+Yes,Women,Ball in/out,12.63,0.792,0.762,0.820
+Yes,Women,Ball in/out,12.67,0.794,0.763,0.821
+Yes,Women,Ball in/out,12.73,0.796,0.766,0.823
+Yes,Women,Ball in/out,12.77,0.798,0.767,0.825
+Yes,Women,Ball in/out,12.83,0.802,0.772,0.829
+Yes,Women,Ball in/out,12.87,0.803,0.773,0.830
+Yes,Women,Ball in/out,12.97,0.805,0.775,0.831
+Yes,Women,Ball in/out,13.07,0.806,0.776,0.832
+Yes,Women,Ball in/out,13.13,0.807,0.777,0.834
+Yes,Women,Ball in/out,13.20,0.809,0.779,0.835
+Yes,Women,Ball in/out,13.23,0.810,0.780,0.836
+Yes,Women,Ball in/out,13.33,0.811,0.782,0.838
+Yes,Women,Ball in/out,13.37,0.813,0.783,0.839
+Yes,Women,Ball in/out,13.43,0.816,0.786,0.841
+Yes,Women,Ball in/out,13.47,0.817,0.787,0.843
+Yes,Women,Ball in/out,13.57,0.821,0.792,0.847
+Yes,Women,Ball in/out,13.67,0.822,0.793,0.848
+Yes,Women,Ball in/out,13.70,0.825,0.796,0.850
+Yes,Women,Ball in/out,13.90,0.827,0.798,0.852
+Yes,Women,Ball in/out,13.93,0.828,0.799,0.853
+Yes,Women,Ball in/out,14.03,0.829,0.800,0.854
+Yes,Women,Ball in/out,14.10,0.831,0.802,0.856
+Yes,Women,Ball in/out,14.20,0.832,0.803,0.857
+Yes,Women,Ball in/out,14.33,0.835,0.806,0.859
+Yes,Women,Ball in/out,14.37,0.836,0.808,0.861
+Yes,Women,Ball in/out,14.40,0.837,0.809,0.862
+Yes,Women,Ball in/out,14.43,0.839,0.811,0.863
+Yes,Women,Ball in/out,14.63,0.840,0.812,0.864
+Yes,Women,Ball in/out,14.70,0.842,0.813,0.866
+Yes,Women,Ball in/out,14.97,0.843,0.815,0.867
+Yes,Women,Ball in/out,15.07,0.844,0.816,0.868
+Yes,Women,Ball in/out,15.17,0.846,0.818,0.870
+Yes,Women,Ball in/out,15.27,0.847,0.819,0.871
+Yes,Women,Ball in/out,15.37,0.848,0.821,0.872
+Yes,Women,Ball in/out,15.47,0.850,0.822,0.873
+Yes,Women,Ball in/out,15.50,0.851,0.824,0.875
+Yes,Women,Ball in/out,15.57,0.852,0.825,0.876
+Yes,Women,Ball in/out,15.67,0.854,0.827,0.877
+Yes,Women,Ball in/out,15.77,0.855,0.828,0.878
+Yes,Women,Ball in/out,15.80,0.857,0.829,0.880
+Yes,Women,Ball in/out,15.83,0.858,0.831,0.881
+Yes,Women,Ball in/out,16.07,0.859,0.832,0.882
+Yes,Women,Ball in/out,16.20,0.861,0.834,0.884
+Yes,Women,Ball in/out,16.23,0.862,0.835,0.885
+Yes,Women,Ball in/out,16.30,0.863,0.837,0.886
+Yes,Women,Ball in/out,16.43,0.865,0.838,0.887
+Yes,Women,Ball in/out,16.47,0.866,0.840,0.889
+Yes,Women,Ball in/out,16.70,0.868,0.841,0.890
+Yes,Women,Ball in/out,16.83,0.869,0.843,0.891
+Yes,Women,Ball in/out,16.97,0.870,0.844,0.892
+Yes,Women,Ball in/out,17.23,0.872,0.846,0.894
+Yes,Women,Ball in/out,17.43,0.873,0.847,0.895
+Yes,Women,Ball in/out,17.53,0.874,0.848,0.896
+Yes,Women,Ball in/out,17.63,0.876,0.850,0.897
+Yes,Women,Ball in/out,17.70,0.877,0.851,0.899
+Yes,Women,Ball in/out,17.77,0.878,0.853,0.900
+Yes,Women,Ball in/out,17.97,0.880,0.854,0.901
+Yes,Women,Ball in/out,18.17,0.881,0.856,0.902
+Yes,Women,Ball in/out,18.23,0.883,0.857,0.904
+Yes,Women,Ball in/out,18.37,0.884,0.859,0.905
+Yes,Women,Ball in/out,19.17,0.885,0.860,0.906
+Yes,Women,Ball in/out,19.23,0.888,0.863,0.909
+Yes,Women,Ball in/out,19.43,0.890,0.865,0.910
+Yes,Women,Ball in/out,19.53,0.891,0.866,0.911
+Yes,Women,Ball in/out,19.60,0.894,0.869,0.914
+Yes,Women,Ball in/out,19.90,0.895,0.871,0.915
+Yes,Women,Ball in/out,19.97,0.896,0.872,0.916
+Yes,Women,Ball in/out,20.00,0.898,0.874,0.918
+Yes,Women,Ball in/out,20.03,0.899,0.875,0.919
+Yes,Women,Ball in/out,20.10,0.901,0.877,0.920
+Yes,Women,Ball in/out,20.27,0.902,0.878,0.921
+Yes,Women,Ball in/out,20.37,0.903,0.880,0.923
+Yes,Women,Ball in/out,20.60,0.906,0.883,0.925
+Yes,Women,Ball in/out,20.87,0.908,0.885,0.926
+Yes,Women,Ball in/out,20.93,0.909,0.886,0.928
+Yes,Women,Ball in/out,20.97,0.911,0.888,0.929
+Yes,Women,Ball in/out,21.03,0.913,0.891,0.932
+Yes,Women,Ball in/out,21.83,0.915,0.892,0.933
+Yes,Women,Ball in/out,21.93,0.916,0.894,0.934
+Yes,Women,Ball in/out,22.13,0.919,0.897,0.937
+Yes,Women,Ball in/out,22.33,0.921,0.899,0.938
+Yes,Women,Ball in/out,22.37,0.922,0.901,0.939
+Yes,Women,Ball in/out,22.80,0.925,0.904,0.942
+Yes,Women,Ball in/out,23.33,0.927,0.905,0.943
+Yes,Women,Ball in/out,23.67,0.928,0.907,0.945
+Yes,Women,Ball in/out,23.90,0.930,0.909,0.946
+Yes,Women,Ball in/out,24.30,0.931,0.911,0.948
+Yes,Women,Ball in/out,24.80,0.933,0.912,0.949
+Yes,Women,Ball in/out,25.10,0.935,0.914,0.950
+Yes,Women,Ball in/out,26.40,0.936,0.916,0.952
+Yes,Women,Ball in/out,26.97,0.938,0.918,0.953
+Yes,Women,Ball in/out,29.17,0.939,0.919,0.954
+Yes,Women,Ball in/out,31.27,0.941,0.921,0.956
+Yes,Women,Ball in/out,33.00,0.942,0.923,0.957
+Yes,Women,Ball in/out,36.17,0.944,0.925,0.958
+Yes,Women,Ball in/out,39.30,0.945,0.926,0.960
+Yes,Women,Ball in/out,40.90,0.947,0.928,0.961
+Yes,Women,Ball in/out,42.50,0.948,0.930,0.962
+Yes,Women,Ball in/out,43.90,0.950,0.932,0.964
+Yes,Men,Fault,2.36,0.001,0.000,0.006
+Yes,Men,Fault,2.40,0.002,0.000,0.007
+Yes,Men,Fault,2.76,0.003,0.001,0.009
+Yes,Men,Fault,2.84,0.004,0.001,0.010
+Yes,Men,Fault,2.92,0.005,0.002,0.011
+Yes,Men,Fault,3.12,0.006,0.003,0.013
+Yes,Men,Fault,3.20,0.009,0.005,0.017
+Yes,Men,Fault,3.24,0.010,0.005,0.018
+Yes,Men,Fault,3.40,0.011,0.006,0.020
+Yes,Men,Fault,3.50,0.012,0.007,0.021
+Yes,Men,Fault,3.84,0.014,0.008,0.023
+Yes,Men,Fault,3.88,0.015,0.009,0.025
+Yes,Men,Fault,3.96,0.016,0.010,0.026
+Yes,Men,Fault,3.97,0.017,0.011,0.027
+Yes,Men,Fault,4.00,0.018,0.011,0.028
+Yes,Men,Fault,4.04,0.020,0.013,0.031
+Yes,Men,Fault,4.08,0.022,0.014,0.032
+Yes,Men,Fault,4.16,0.023,0.015,0.033
+Yes,Men,Fault,4.40,0.024,0.015,0.035
+Yes,Men,Fault,4.48,0.025,0.016,0.036
+Yes,Men,Fault,4.52,0.026,0.017,0.037
+Yes,Men,Fault,4.68,0.027,0.018,0.038
+Yes,Men,Fault,4.72,0.028,0.019,0.039
+Yes,Men,Fault,4.73,0.029,0.020,0.041
+Yes,Men,Fault,4.92,0.030,0.020,0.042
+Yes,Men,Fault,5.03,0.031,0.021,0.043
+Yes,Men,Fault,5.24,0.032,0.022,0.044
+Yes,Men,Fault,5.40,0.033,0.023,0.046
+Yes,Men,Fault,5.56,0.034,0.024,0.047
+Yes,Men,Fault,5.72,0.035,0.025,0.048
+Yes,Men,Fault,5.88,0.036,0.026,0.049
+Yes,Men,Fault,6.16,0.037,0.027,0.050
+Yes,Men,Fault,6.80,0.038,0.027,0.052
+Yes,Men,Fault,6.88,0.039,0.028,0.053
+Yes,Men,Fault,8.08,0.040,0.029,0.054
+Yes,Men,Fault,8.12,0.041,0.030,0.055
+Yes,Men,Fault,8.20,0.043,0.031,0.057
+Yes,Men,Fault,8.96,0.044,0.032,0.058
+Yes,Men,Fault,9.08,0.045,0.033,0.059
+Yes,Men,Fault,9.24,0.046,0.034,0.060
+Yes,Men,Fault,10.08,0.047,0.035,0.062
+Yes,Men,Fault,10.60,0.048,0.036,0.063
+Yes,Men,Fault,12.96,0.049,0.037,0.064
+Yes,Men,Fault,13.04,0.050,0.038,0.065
+Yes,Men,Fault,13.12,0.051,0.039,0.067
+Yes,Men,Fault,14.04,0.052,0.040,0.068
+Yes,Men,Fault,14.08,0.054,0.041,0.069
+Yes,Men,Fault,16.00,0.055,0.042,0.070
+Yes,Men,Fault,18.56,0.056,0.043,0.072
+Yes,Men,Fault,18.92,0.057,0.044,0.073
+Yes,Men,Fault,22.00,0.058,0.045,0.074
+Yes,Men,Fault,26.16,0.059,0.046,0.076
+Yes,Men,Fault,27.48,0.061,0.047,0.077
+Yes,Men,Fault,28.16,0.062,0.048,0.078
+Yes,Men,Fault,29.12,0.063,0.049,0.080
+Yes,Women,Fault,2.50,0.001,0.000,0.007
+Yes,Women,Fault,2.67,0.003,0.001,0.009
+Yes,Women,Fault,2.87,0.004,0.001,0.011
+Yes,Women,Fault,2.97,0.005,0.002,0.012
+Yes,Women,Fault,3.27,0.006,0.002,0.014
+Yes,Women,Fault,3.47,0.008,0.003,0.016
+Yes,Women,Fault,3.70,0.009,0.004,0.018
+Yes,Women,Fault,3.80,0.010,0.005,0.019
+Yes,Women,Fault,3.90,0.011,0.006,0.021
+Yes,Women,Fault,5.37,0.013,0.007,0.023
+Yes,Women,Fault,6.30,0.014,0.007,0.024
+Yes,Women,Fault,6.67,0.015,0.008,0.026
+Yes,Women,Fault,6.87,0.017,0.009,0.028
+Yes,Women,Fault,7.33,0.018,0.010,0.029
+Yes,Women,Fault,7.43,0.019,0.011,0.031
+Yes,Women,Fault,7.57,0.021,0.012,0.032
+Yes,Women,Fault,7.87,0.022,0.013,0.034
+Yes,Women,Fault,8.60,0.023,0.014,0.036
+Yes,Women,Fault,8.83,0.025,0.015,0.037
+Yes,Women,Fault,8.87,0.026,0.016,0.039
+Yes,Women,Fault,9.60,0.027,0.017,0.041
+Yes,Women,Fault,10.93,0.029,0.018,0.042
+Yes,Women,Fault,11.47,0.030,0.020,0.044
+Yes,Women,Fault,11.70,0.031,0.021,0.045
+Yes,Women,Fault,12.47,0.033,0.022,0.047
+Yes,Women,Fault,12.87,0.034,0.023,0.049
+Yes,Women,Fault,12.97,0.035,0.024,0.050
+Yes,Women,Fault,13.67,0.037,0.025,0.052
+Yes,Women,Fault,14.03,0.038,0.026,0.053
+Yes,Women,Fault,14.93,0.039,0.027,0.055
+Yes,Women,Fault,15.67,0.041,0.028,0.057
+Yes,Women,Fault,19.03,0.042,0.029,0.058
+Yes,Women,Fault,24.70,0.044,0.031,0.060
+Yes,Women,Fault,27.63,0.045,0.032,0.062
+Yes,Women,Fault,33.80,0.047,0.033,0.064
+Yes,Women,Fault,34.53,0.048,0.035,0.066
+Yes,Women,Fault,34.73,0.050,0.036,0.067
+Yes,Men,Pooled,0.28,0.001,0.000,0.007
+Yes,Men,Pooled,0.32,0.012,0.007,0.021
+Yes,Men,Pooled,0.36,0.024,0.016,0.036
+Yes,Men,Pooled,0.40,0.032,0.023,0.046
+Yes,Men,Pooled,0.44,0.037,0.026,0.050
+Yes,Men,Pooled,0.52,0.041,0.030,0.055
+Yes,Men,Pooled,0.53,0.043,0.032,0.057
+Yes,Men,Pooled,0.56,0.047,0.035,0.062
+Yes,Men,Pooled,0.60,0.051,0.039,0.066
+Yes,Men,Pooled,0.63,0.052,0.040,0.067
+Yes,Men,Pooled,0.64,0.057,0.044,0.073
+Yes,Men,Pooled,0.67,0.058,0.045,0.074
+Yes,Men,Pooled,0.68,0.062,0.048,0.079
+Yes,Men,Pooled,0.72,0.076,0.061,0.094
+Yes,Men,Pooled,0.73,0.080,0.065,0.099
+Yes,Men,Pooled,0.76,0.093,0.077,0.113
+Yes,Men,Pooled,0.77,0.095,0.079,0.115
+Yes,Men,Pooled,0.80,0.114,0.095,0.135
+Yes,Men,Pooled,0.83,0.115,0.096,0.136
+Yes,Men,Pooled,0.84,0.132,0.112,0.154
+Yes,Men,Pooled,0.87,0.133,0.113,0.156
+Yes,Men,Pooled,0.88,0.141,0.121,0.164
+Yes,Men,Pooled,0.90,0.144,0.123,0.167
+Yes,Men,Pooled,0.92,0.150,0.129,0.174
+Yes,Men,Pooled,0.93,0.151,0.130,0.175
+Yes,Men,Pooled,0.96,0.153,0.132,0.177
+Yes,Men,Pooled,1.00,0.157,0.136,0.181
+Yes,Men,Pooled,1.04,0.158,0.137,0.182
+Yes,Men,Pooled,1.08,0.161,0.140,0.186
+Yes,Men,Pooled,1.12,0.163,0.142,0.188
+Yes,Men,Pooled,1.20,0.165,0.143,0.190
+Yes,Men,Pooled,1.24,0.167,0.145,0.192
+Yes,Men,Pooled,1.27,0.168,0.146,0.193
+Yes,Men,Pooled,1.32,0.169,0.147,0.194
+Yes,Men,Pooled,1.36,0.171,0.149,0.196
+Yes,Men,Pooled,1.40,0.172,0.150,0.197
+Yes,Men,Pooled,1.40,0.176,0.154,0.202
+Yes,Men,Pooled,1.44,0.178,0.156,0.204
+Yes,Men,Pooled,1.47,0.179,0.157,0.205
+Yes,Men,Pooled,1.48,0.185,0.162,0.210
+Yes,Men,Pooled,1.50,0.186,0.163,0.211
+Yes,Men,Pooled,1.53,0.188,0.165,0.213
+Yes,Men,Pooled,1.60,0.190,0.167,0.216
+Yes,Men,Pooled,1.68,0.191,0.168,0.217
+Yes,Men,Pooled,1.88,0.192,0.168,0.218
+Yes,Men,Pooled,1.92,0.193,0.169,0.219
+Yes,Men,Pooled,2.23,0.194,0.170,0.220
+Yes,Men,Pooled,2.24,0.195,0.171,0.221
+Yes,Men,Pooled,2.32,0.196,0.172,0.222
+Yes,Men,Pooled,2.36,0.197,0.173,0.223
+Yes,Men,Pooled,2.40,0.200,0.176,0.226
+Yes,Men,Pooled,2.48,0.201,0.177,0.227
+Yes,Men,Pooled,2.52,0.202,0.178,0.228
+Yes,Men,Pooled,2.60,0.203,0.179,0.229
+Yes,Men,Pooled,2.64,0.204,0.180,0.231
+Yes,Men,Pooled,2.68,0.205,0.181,0.232
+Yes,Men,Pooled,2.76,0.206,0.182,0.233
+Yes,Men,Pooled,2.80,0.209,0.185,0.236
+Yes,Men,Pooled,2.84,0.211,0.187,0.238
+Yes,Men,Pooled,2.88,0.213,0.189,0.240
+Yes,Men,Pooled,2.92,0.214,0.190,0.241
+Yes,Men,Pooled,2.96,0.219,0.195,0.246
+Yes,Men,Pooled,2.97,0.220,0.196,0.248
+Yes,Men,Pooled,3.00,0.222,0.198,0.250
+Yes,Men,Pooled,3.04,0.225,0.201,0.253
+Yes,Men,Pooled,3.08,0.230,0.205,0.257
+Yes,Men,Pooled,3.12,0.234,0.208,0.261
+Yes,Men,Pooled,3.16,0.238,0.212,0.266
+Yes,Men,Pooled,3.20,0.250,0.224,0.278
+Yes,Men,Pooled,3.23,0.251,0.225,0.279
+Yes,Men,Pooled,3.24,0.257,0.231,0.286
+Yes,Men,Pooled,3.27,0.258,0.232,0.287
+Yes,Men,Pooled,3.28,0.263,0.237,0.292
+Yes,Men,Pooled,3.32,0.268,0.242,0.297
+Yes,Men,Pooled,3.33,0.269,0.243,0.298
+Yes,Men,Pooled,3.36,0.277,0.250,0.306
+Yes,Men,Pooled,3.40,0.280,0.253,0.309
+Yes,Men,Pooled,3.44,0.286,0.259,0.315
+Yes,Men,Pooled,3.48,0.294,0.267,0.324
+Yes,Men,Pooled,3.50,0.296,0.269,0.326
+Yes,Men,Pooled,3.52,0.297,0.270,0.327
+Yes,Men,Pooled,3.56,0.302,0.275,0.332
+Yes,Men,Pooled,3.60,0.307,0.280,0.337
+Yes,Men,Pooled,3.63,0.308,0.281,0.338
+Yes,Men,Pooled,3.64,0.317,0.289,0.347
+Yes,Men,Pooled,3.68,0.323,0.294,0.353
+Yes,Men,Pooled,3.70,0.324,0.295,0.354
+Yes,Men,Pooled,3.72,0.327,0.298,0.357
+Yes,Men,Pooled,3.73,0.329,0.300,0.359
+Yes,Men,Pooled,3.76,0.340,0.311,0.371
+Yes,Men,Pooled,3.80,0.348,0.319,0.379
+Yes,Men,Pooled,3.83,0.350,0.321,0.381
+Yes,Men,Pooled,3.84,0.362,0.332,0.393
+Yes,Men,Pooled,3.87,0.363,0.333,0.394
+Yes,Men,Pooled,3.88,0.371,0.342,0.402
+Yes,Men,Pooled,3.92,0.381,0.352,0.412
+Yes,Men,Pooled,3.93,0.382,0.353,0.413
+Yes,Men,Pooled,3.96,0.396,0.366,0.427
+Yes,Men,Pooled,3.97,0.397,0.367,0.428
+Yes,Men,Pooled,4.00,0.412,0.382,0.443
+Yes,Men,Pooled,4.03,0.413,0.383,0.445
+Yes,Men,Pooled,4.04,0.424,0.394,0.456
+Yes,Men,Pooled,4.07,0.425,0.395,0.457
+Yes,Men,Pooled,4.08,0.431,0.401,0.463
+Yes,Men,Pooled,4.12,0.442,0.411,0.473
+Yes,Men,Pooled,4.16,0.454,0.424,0.486
+Yes,Men,Pooled,4.20,0.466,0.436,0.498
+Yes,Men,Pooled,4.23,0.467,0.437,0.499
+Yes,Men,Pooled,4.24,0.475,0.444,0.506
+Yes,Men,Pooled,4.28,0.483,0.452,0.515
+Yes,Men,Pooled,4.32,0.494,0.463,0.526
+Yes,Men,Pooled,4.36,0.504,0.473,0.535
+Yes,Men,Pooled,4.37,0.505,0.474,0.536
+Yes,Men,Pooled,4.40,0.514,0.483,0.546
+Yes,Men,Pooled,4.44,0.516,0.485,0.548
+Yes,Men,Pooled,4.47,0.518,0.487,0.550
+Yes,Men,Pooled,4.48,0.529,0.498,0.560
+Yes,Men,Pooled,4.50,0.530,0.499,0.561
+Yes,Men,Pooled,4.52,0.538,0.507,0.569
+Yes,Men,Pooled,4.56,0.546,0.515,0.578
+Yes,Men,Pooled,4.60,0.555,0.524,0.586
+Yes,Men,Pooled,4.64,0.560,0.529,0.591
+Yes,Men,Pooled,4.67,0.561,0.530,0.592
+Yes,Men,Pooled,4.68,0.567,0.536,0.598
+Yes,Men,Pooled,4.72,0.574,0.543,0.606
+Yes,Men,Pooled,4.73,0.575,0.544,0.607
+Yes,Men,Pooled,4.76,0.583,0.552,0.614
+Yes,Men,Pooled,4.80,0.589,0.558,0.620
+Yes,Men,Pooled,4.88,0.593,0.562,0.624
+Yes,Men,Pooled,4.90,0.594,0.563,0.625
+Yes,Men,Pooled,4.92,0.598,0.568,0.629
+Yes,Men,Pooled,4.96,0.605,0.574,0.635
+Yes,Men,Pooled,5.00,0.610,0.579,0.640
+Yes,Men,Pooled,5.03,0.611,0.580,0.642
+Yes,Men,Pooled,5.04,0.618,0.588,0.649
+Yes,Men,Pooled,5.08,0.623,0.593,0.654
+Yes,Men,Pooled,5.12,0.627,0.596,0.657
+Yes,Men,Pooled,5.16,0.628,0.597,0.658
+Yes,Men,Pooled,5.17,0.629,0.598,0.659
+Yes,Men,Pooled,5.20,0.631,0.600,0.661
+Yes,Men,Pooled,5.24,0.634,0.604,0.664
+Yes,Men,Pooled,5.27,0.635,0.605,0.665
+Yes,Men,Pooled,5.28,0.637,0.607,0.667
+Yes,Men,Pooled,5.32,0.642,0.612,0.672
+Yes,Men,Pooled,5.36,0.643,0.613,0.673
+Yes,Men,Pooled,5.37,0.644,0.614,0.674
+Yes,Men,Pooled,5.40,0.649,0.619,0.679
+Yes,Men,Pooled,5.44,0.653,0.623,0.683
+Yes,Men,Pooled,5.52,0.656,0.626,0.686
+Yes,Men,Pooled,5.56,0.658,0.628,0.688
+Yes,Men,Pooled,5.60,0.659,0.629,0.689
+Yes,Men,Pooled,5.60,0.661,0.631,0.691
+Yes,Men,Pooled,5.64,0.663,0.634,0.693
+Yes,Men,Pooled,5.68,0.666,0.636,0.695
+Yes,Men,Pooled,5.72,0.668,0.638,0.697
+Yes,Men,Pooled,5.77,0.669,0.639,0.698
+Yes,Men,Pooled,5.80,0.671,0.641,0.700
+Yes,Men,Pooled,5.88,0.674,0.644,0.703
+Yes,Men,Pooled,5.92,0.676,0.646,0.705
+Yes,Men,Pooled,6.03,0.677,0.648,0.706
+Yes,Men,Pooled,6.04,0.678,0.649,0.707
+Yes,Men,Pooled,6.13,0.679,0.650,0.708
+Yes,Men,Pooled,6.16,0.681,0.652,0.711
+Yes,Men,Pooled,6.24,0.682,0.653,0.712
+Yes,Men,Pooled,6.44,0.683,0.654,0.713
+Yes,Men,Pooled,6.52,0.685,0.655,0.714
+Yes,Men,Pooled,6.56,0.686,0.656,0.715
+Yes,Men,Pooled,6.60,0.687,0.657,0.716
+Yes,Men,Pooled,6.68,0.689,0.659,0.718
+Yes,Men,Pooled,6.72,0.691,0.662,0.720
+Yes,Men,Pooled,6.76,0.692,0.663,0.721
+Yes,Men,Pooled,6.80,0.694,0.665,0.723
+Yes,Men,Pooled,6.84,0.696,0.667,0.725
+Yes,Men,Pooled,6.88,0.698,0.669,0.727
+Yes,Men,Pooled,6.96,0.699,0.670,0.728
+Yes,Men,Pooled,7.00,0.700,0.671,0.729
+Yes,Men,Pooled,7.04,0.702,0.672,0.730
+Yes,Men,Pooled,7.08,0.708,0.679,0.736
+Yes,Men,Pooled,7.10,0.709,0.680,0.737
+Yes,Men,Pooled,7.12,0.711,0.682,0.739
+Yes,Men,Pooled,7.16,0.712,0.683,0.740
+Yes,Men,Pooled,7.20,0.715,0.687,0.744
+Yes,Men,Pooled,7.24,0.716,0.688,0.745
+Yes,Men,Pooled,7.28,0.717,0.689,0.746
+Yes,Men,Pooled,7.32,0.721,0.692,0.749
+Yes,Men,Pooled,7.40,0.722,0.693,0.750
+Yes,Men,Pooled,7.44,0.725,0.696,0.753
+Yes,Men,Pooled,7.48,0.728,0.700,0.756
+Yes,Men,Pooled,7.52,0.729,0.701,0.757
+Yes,Men,Pooled,7.60,0.731,0.703,0.759
+Yes,Men,Pooled,7.68,0.734,0.705,0.761
+Yes,Men,Pooled,7.72,0.736,0.707,0.763
+Yes,Men,Pooled,7.76,0.737,0.709,0.764
+Yes,Men,Pooled,7.80,0.741,0.713,0.768
+Yes,Men,Pooled,7.83,0.742,0.714,0.769
+Yes,Men,Pooled,7.84,0.744,0.716,0.771
+Yes,Men,Pooled,7.88,0.748,0.721,0.776
+Yes,Men,Pooled,7.92,0.751,0.723,0.778
+Yes,Men,Pooled,7.96,0.754,0.726,0.781
+Yes,Men,Pooled,8.00,0.756,0.728,0.783
+Yes,Men,Pooled,8.04,0.758,0.731,0.785
+Yes,Men,Pooled,8.07,0.759,0.732,0.786
+Yes,Men,Pooled,8.08,0.761,0.734,0.788
+Yes,Men,Pooled,8.12,0.766,0.738,0.792
+Yes,Men,Pooled,8.16,0.767,0.739,0.793
+Yes,Men,Pooled,8.20,0.770,0.743,0.796
+Yes,Men,Pooled,8.24,0.771,0.744,0.797
+Yes,Men,Pooled,8.28,0.772,0.745,0.798
+Yes,Men,Pooled,8.32,0.775,0.748,0.801
+Yes,Men,Pooled,8.36,0.777,0.751,0.803
+Yes,Men,Pooled,8.40,0.778,0.752,0.804
+Yes,Men,Pooled,8.44,0.781,0.754,0.806
+Yes,Men,Pooled,8.48,0.784,0.757,0.809
+Yes,Men,Pooled,8.52,0.786,0.759,0.811
+Yes,Men,Pooled,8.56,0.787,0.761,0.813
+Yes,Men,Pooled,8.60,0.789,0.763,0.815
+Yes,Men,Pooled,8.63,0.790,0.764,0.816
+Yes,Men,Pooled,8.68,0.791,0.765,0.817
+Yes,Men,Pooled,8.76,0.794,0.767,0.819
+Yes,Men,Pooled,8.80,0.797,0.771,0.822
+Yes,Men,Pooled,8.84,0.798,0.772,0.823
+Yes,Men,Pooled,8.88,0.799,0.773,0.824
+Yes,Men,Pooled,8.92,0.800,0.774,0.825
+Yes,Men,Pooled,8.93,0.801,0.775,0.826
+Yes,Men,Pooled,8.96,0.802,0.776,0.827
+Yes,Men,Pooled,9.00,0.804,0.779,0.829
+Yes,Men,Pooled,9.04,0.805,0.780,0.830
+Yes,Men,Pooled,9.07,0.807,0.781,0.831
+Yes,Men,Pooled,9.08,0.809,0.783,0.833
+Yes,Men,Pooled,9.12,0.810,0.784,0.834
+Yes,Men,Pooled,9.16,0.811,0.785,0.835
+Yes,Men,Pooled,9.24,0.815,0.790,0.839
+Yes,Men,Pooled,9.40,0.819,0.793,0.842
+Yes,Men,Pooled,9.44,0.820,0.794,0.843
+Yes,Men,Pooled,9.48,0.822,0.797,0.845
+Yes,Men,Pooled,9.56,0.823,0.798,0.846
+Yes,Men,Pooled,9.72,0.824,0.799,0.848
+Yes,Men,Pooled,9.76,0.825,0.800,0.849
+Yes,Men,Pooled,9.80,0.826,0.801,0.850
+Yes,Men,Pooled,9.84,0.827,0.802,0.851
+Yes,Men,Pooled,9.88,0.828,0.804,0.852
+Yes,Men,Pooled,9.92,0.829,0.805,0.853
+Yes,Men,Pooled,9.96,0.831,0.806,0.854
+Yes,Men,Pooled,10.00,0.832,0.807,0.855
+Yes,Men,Pooled,10.08,0.834,0.809,0.857
+Yes,Men,Pooled,10.12,0.835,0.811,0.858
+Yes,Men,Pooled,10.13,0.836,0.812,0.859
+Yes,Men,Pooled,10.16,0.837,0.813,0.860
+Yes,Men,Pooled,10.24,0.838,0.814,0.861
+Yes,Men,Pooled,10.28,0.839,0.815,0.862
+Yes,Men,Pooled,10.36,0.840,0.816,0.863
+Yes,Men,Pooled,10.37,0.841,0.817,0.864
+Yes,Men,Pooled,10.44,0.844,0.820,0.866
+Yes,Men,Pooled,10.60,0.846,0.822,0.868
+Yes,Men,Pooled,10.76,0.847,0.823,0.869
+Yes,Men,Pooled,10.80,0.849,0.825,0.871
+Yes,Men,Pooled,10.84,0.850,0.827,0.872
+Yes,Men,Pooled,10.88,0.851,0.828,0.873
+Yes,Men,Pooled,10.96,0.855,0.831,0.876
+Yes,Men,Pooled,11.03,0.856,0.832,0.877
+Yes,Men,Pooled,11.08,0.857,0.834,0.878
+Yes,Men,Pooled,11.16,0.860,0.837,0.882
+Yes,Men,Pooled,11.20,0.861,0.838,0.883
+Yes,Men,Pooled,11.28,0.862,0.840,0.884
+Yes,Men,Pooled,11.32,0.865,0.842,0.886
+Yes,Men,Pooled,11.40,0.866,0.843,0.887
+Yes,Men,Pooled,11.44,0.867,0.844,0.888
+Yes,Men,Pooled,11.52,0.868,0.846,0.889
+Yes,Men,Pooled,11.56,0.869,0.847,0.890
+Yes,Men,Pooled,11.60,0.870,0.848,0.891
+Yes,Men,Pooled,11.67,0.871,0.849,0.892
+Yes,Men,Pooled,11.68,0.875,0.853,0.895
+Yes,Men,Pooled,11.72,0.877,0.855,0.897
+Yes,Men,Pooled,11.76,0.878,0.856,0.898
+Yes,Men,Pooled,11.88,0.879,0.857,0.899
+Yes,Men,Pooled,12.00,0.882,0.860,0.901
+Yes,Men,Pooled,12.04,0.883,0.861,0.902
+Yes,Men,Pooled,12.12,0.885,0.863,0.904
+Yes,Men,Pooled,12.13,0.886,0.865,0.905
+Yes,Men,Pooled,12.16,0.887,0.866,0.906
+Yes,Men,Pooled,12.20,0.889,0.868,0.909
+Yes,Men,Pooled,12.28,0.890,0.869,0.910
+Yes,Men,Pooled,12.32,0.893,0.872,0.912
+Yes,Men,Pooled,12.33,0.894,0.873,0.913
+Yes,Men,Pooled,12.36,0.895,0.874,0.914
+Yes,Men,Pooled,12.44,0.896,0.875,0.915
+Yes,Men,Pooled,12.48,0.897,0.877,0.916
+Yes,Men,Pooled,12.52,0.898,0.878,0.917
+Yes,Men,Pooled,12.60,0.899,0.879,0.918
+Yes,Men,Pooled,12.68,0.902,0.881,0.920
+Yes,Men,Pooled,12.73,0.903,0.883,0.921
+Yes,Men,Pooled,12.76,0.904,0.884,0.922
+Yes,Men,Pooled,12.80,0.905,0.885,0.923
+Yes,Men,Pooled,12.88,0.906,0.886,0.924
+Yes,Men,Pooled,12.92,0.907,0.887,0.925
+Yes,Men,Pooled,12.96,0.908,0.889,0.926
+Yes,Men,Pooled,13.04,0.909,0.890,0.927
+Yes,Men,Pooled,13.08,0.911,0.891,0.928
+Yes,Men,Pooled,13.12,0.912,0.892,0.929
+Yes,Men,Pooled,13.32,0.913,0.894,0.930
+Yes,Men,Pooled,13.36,0.914,0.895,0.931
+Yes,Men,Pooled,13.40,0.915,0.896,0.932
+Yes,Men,Pooled,13.56,0.916,0.897,0.933
+Yes,Men,Pooled,13.64,0.917,0.898,0.934
+Yes,Men,Pooled,13.68,0.919,0.900,0.935
+Yes,Men,Pooled,13.88,0.921,0.902,0.937
+Yes,Men,Pooled,13.92,0.922,0.903,0.938
+Yes,Men,Pooled,14.00,0.923,0.905,0.939
+Yes,Men,Pooled,14.04,0.924,0.906,0.940
+Yes,Men,Pooled,14.08,0.925,0.907,0.941
+Yes,Men,Pooled,14.16,0.928,0.910,0.943
+Yes,Men,Pooled,14.20,0.929,0.911,0.944
+Yes,Men,Pooled,14.28,0.930,0.912,0.945
+Yes,Men,Pooled,14.52,0.931,0.913,0.946
+Yes,Men,Pooled,14.56,0.932,0.915,0.947
+Yes,Men,Pooled,14.68,0.933,0.916,0.948
+Yes,Men,Pooled,14.72,0.934,0.917,0.949
+Yes,Men,Pooled,14.76,0.936,0.918,0.950
+Yes,Men,Pooled,14.80,0.937,0.920,0.951
+Yes,Men,Pooled,14.83,0.938,0.921,0.952
+Yes,Men,Pooled,15.08,0.939,0.922,0.953
+Yes,Men,Pooled,15.48,0.940,0.923,0.954
+Yes,Men,Pooled,15.72,0.941,0.925,0.955
+Yes,Men,Pooled,15.76,0.942,0.926,0.956
+Yes,Men,Pooled,15.88,0.945,0.928,0.958
+Yes,Men,Pooled,15.96,0.946,0.930,0.959
+Yes,Men,Pooled,16.00,0.948,0.932,0.961
+Yes,Men,Pooled,16.04,0.949,0.933,0.962
+Yes,Men,Pooled,16.12,0.950,0.935,0.963
+Yes,Men,Pooled,16.24,0.951,0.936,0.964
+Yes,Men,Pooled,16.36,0.953,0.937,0.965
+Yes,Men,Pooled,16.52,0.954,0.939,0.966
+Yes,Men,Pooled,16.60,0.955,0.940,0.967
+Yes,Men,Pooled,16.64,0.956,0.941,0.968
+Yes,Men,Pooled,16.72,0.957,0.942,0.969
+Yes,Men,Pooled,16.76,0.959,0.945,0.971
+Yes,Men,Pooled,16.88,0.960,0.946,0.972
+Yes,Men,Pooled,16.92,0.962,0.948,0.973
+Yes,Men,Pooled,17.04,0.963,0.949,0.974
+Yes,Men,Pooled,17.60,0.964,0.950,0.975
+Yes,Men,Pooled,17.76,0.965,0.952,0.976
+Yes,Men,Pooled,18.36,0.966,0.953,0.977
+Yes,Men,Pooled,18.50,0.967,0.954,0.978
+Yes,Men,Pooled,18.56,0.969,0.956,0.979
+Yes,Men,Pooled,18.80,0.970,0.957,0.980
+Yes,Men,Pooled,18.92,0.971,0.958,0.981
+Yes,Men,Pooled,18.97,0.972,0.960,0.982
+Yes,Men,Pooled,20.28,0.973,0.961,0.982
+Yes,Men,Pooled,20.40,0.974,0.962,0.983
+Yes,Men,Pooled,20.60,0.976,0.964,0.984
+Yes,Men,Pooled,20.64,0.977,0.965,0.985
+Yes,Men,Pooled,20.80,0.978,0.967,0.986
+Yes,Men,Pooled,20.88,0.979,0.968,0.987
+Yes,Men,Pooled,20.92,0.980,0.969,0.988
+Yes,Men,Pooled,21.04,0.981,0.971,0.989
+Yes,Men,Pooled,21.24,0.983,0.972,0.990
+Yes,Men,Pooled,21.28,0.984,0.974,0.991
+Yes,Men,Pooled,21.32,0.985,0.975,0.991
+Yes,Men,Pooled,21.96,0.986,0.976,0.992
+Yes,Men,Pooled,22.00,0.987,0.978,0.993
+Yes,Men,Pooled,23.60,0.988,0.979,0.994
+Yes,Men,Pooled,23.80,0.990,0.981,0.995
+Yes,Men,Pooled,23.84,0.991,0.982,0.996
+Yes,Men,Pooled,24.32,0.992,0.984,0.996
+Yes,Men,Pooled,26.16,0.993,0.985,0.997
+Yes,Men,Pooled,26.52,0.994,0.987,0.998
+Yes,Men,Pooled,27.48,0.995,0.989,0.998
+Yes,Men,Pooled,28.16,0.997,0.990,0.999
+Yes,Men,Pooled,28.30,0.998,0.992,1.000
+Yes,Men,Pooled,29.12,1.000,1.000,1.000
+Yes,Women,Pooled,0.40,0.003,0.001,0.010
+Yes,Women,Pooled,0.47,0.006,0.003,0.015
+Yes,Women,Pooled,0.50,0.011,0.006,0.022
+Yes,Women,Pooled,0.53,0.019,0.012,0.031
+Yes,Women,Pooled,0.57,0.020,0.012,0.033
+Yes,Women,Pooled,0.60,0.035,0.025,0.051
+Yes,Women,Pooled,0.63,0.044,0.032,0.061
+Yes,Women,Pooled,0.67,0.052,0.038,0.070
+Yes,Women,Pooled,0.70,0.054,0.041,0.073
+Yes,Women,Pooled,0.73,0.058,0.044,0.077
+Yes,Women,Pooled,0.77,0.059,0.045,0.078
+Yes,Women,Pooled,0.80,0.063,0.048,0.083
+Yes,Women,Pooled,0.83,0.066,0.051,0.085
+Yes,Women,Pooled,0.87,0.068,0.053,0.088
+Yes,Women,Pooled,0.90,0.072,0.056,0.092
+Yes,Women,Pooled,0.93,0.076,0.059,0.097
+Yes,Women,Pooled,0.97,0.081,0.064,0.102
+Yes,Women,Pooled,1.00,0.083,0.066,0.105
+Yes,Women,Pooled,1.03,0.087,0.070,0.109
+Yes,Women,Pooled,1.07,0.089,0.071,0.111
+Yes,Women,Pooled,1.10,0.092,0.074,0.115
+Yes,Women,Pooled,1.13,0.095,0.076,0.117
+Yes,Women,Pooled,1.17,0.096,0.078,0.119
+Yes,Women,Pooled,1.20,0.097,0.079,0.120
+Yes,Women,Pooled,1.23,0.099,0.080,0.122
+Yes,Women,Pooled,1.27,0.101,0.082,0.124
+Yes,Women,Pooled,1.30,0.106,0.087,0.130
+Yes,Women,Pooled,1.33,0.110,0.090,0.134
+Yes,Women,Pooled,1.37,0.119,0.098,0.144
+Yes,Women,Pooled,1.40,0.125,0.104,0.150
+Yes,Women,Pooled,1.43,0.130,0.109,0.156
+Yes,Women,Pooled,1.47,0.135,0.113,0.161
+Yes,Women,Pooled,1.50,0.137,0.115,0.163
+Yes,Women,Pooled,1.53,0.139,0.117,0.165
+Yes,Women,Pooled,1.57,0.142,0.119,0.168
+Yes,Women,Pooled,1.60,0.143,0.120,0.169
+Yes,Women,Pooled,1.63,0.144,0.122,0.171
+Yes,Women,Pooled,1.80,0.147,0.124,0.173
+Yes,Women,Pooled,2.17,0.148,0.125,0.175
+Yes,Women,Pooled,2.20,0.149,0.126,0.176
+Yes,Women,Pooled,2.27,0.151,0.127,0.177
+Yes,Women,Pooled,2.30,0.152,0.129,0.179
+Yes,Women,Pooled,2.40,0.156,0.132,0.183
+Yes,Women,Pooled,2.50,0.158,0.135,0.186
+Yes,Women,Pooled,2.57,0.159,0.136,0.187
+Yes,Women,Pooled,2.63,0.161,0.137,0.188
+Yes,Women,Pooled,2.67,0.163,0.139,0.191
+Yes,Women,Pooled,2.70,0.165,0.140,0.192
+Yes,Women,Pooled,2.77,0.166,0.142,0.194
+Yes,Women,Pooled,2.80,0.167,0.143,0.195
+Yes,Women,Pooled,2.83,0.168,0.144,0.196
+Yes,Women,Pooled,2.87,0.171,0.146,0.199
+Yes,Women,Pooled,2.90,0.172,0.148,0.200
+Yes,Women,Pooled,2.97,0.173,0.149,0.202
+Yes,Women,Pooled,3.10,0.176,0.151,0.204
+Yes,Women,Pooled,3.17,0.177,0.152,0.206
+Yes,Women,Pooled,3.20,0.180,0.155,0.208
+Yes,Women,Pooled,3.23,0.184,0.158,0.212
+Yes,Women,Pooled,3.27,0.185,0.160,0.214
+Yes,Women,Pooled,3.33,0.186,0.161,0.215
+Yes,Women,Pooled,3.37,0.187,0.162,0.216
+Yes,Women,Pooled,3.40,0.190,0.164,0.219
+Yes,Women,Pooled,3.47,0.196,0.170,0.226
+Yes,Women,Pooled,3.50,0.201,0.175,0.231
+Yes,Women,Pooled,3.53,0.205,0.179,0.235
+Yes,Women,Pooled,3.57,0.209,0.182,0.239
+Yes,Women,Pooled,3.60,0.210,0.184,0.240
+Yes,Women,Pooled,3.63,0.215,0.188,0.246
+Yes,Women,Pooled,3.67,0.218,0.191,0.248
+Yes,Women,Pooled,3.70,0.223,0.196,0.254
+Yes,Women,Pooled,3.73,0.226,0.198,0.256
+Yes,Women,Pooled,3.77,0.231,0.203,0.262
+Yes,Women,Pooled,3.80,0.235,0.206,0.266
+Yes,Women,Pooled,3.83,0.240,0.211,0.271
+Yes,Women,Pooled,3.87,0.246,0.217,0.278
+Yes,Women,Pooled,3.90,0.251,0.222,0.283
+Yes,Women,Pooled,3.93,0.256,0.227,0.288
+Yes,Women,Pooled,3.97,0.264,0.234,0.296
+Yes,Women,Pooled,4.00,0.269,0.239,0.301
+Yes,Women,Pooled,4.03,0.277,0.247,0.309
+Yes,Women,Pooled,4.07,0.280,0.250,0.313
+Yes,Women,Pooled,4.10,0.289,0.259,0.322
+Yes,Women,Pooled,4.13,0.299,0.269,0.333
+Yes,Women,Pooled,4.17,0.303,0.273,0.337
+Yes,Women,Pooled,4.20,0.307,0.276,0.341
+Yes,Women,Pooled,4.23,0.314,0.282,0.347
+Yes,Women,Pooled,4.27,0.326,0.295,0.360
+Yes,Women,Pooled,4.30,0.335,0.303,0.369
+Yes,Women,Pooled,4.33,0.349,0.317,0.384
+Yes,Women,Pooled,4.37,0.356,0.323,0.390
+Yes,Women,Pooled,4.40,0.365,0.332,0.399
+Yes,Women,Pooled,4.43,0.368,0.336,0.403
+Yes,Women,Pooled,4.47,0.379,0.346,0.414
+Yes,Women,Pooled,4.50,0.386,0.353,0.421
+Yes,Women,Pooled,4.53,0.395,0.362,0.430
+Yes,Women,Pooled,4.57,0.400,0.367,0.436
+Yes,Women,Pooled,4.60,0.408,0.375,0.443
+Yes,Women,Pooled,4.63,0.417,0.383,0.452
+Yes,Women,Pooled,4.67,0.421,0.387,0.456
+Yes,Women,Pooled,4.70,0.427,0.394,0.463
+Yes,Women,Pooled,4.73,0.436,0.403,0.472
+Yes,Women,Pooled,4.77,0.442,0.408,0.477
+Yes,Women,Pooled,4.80,0.449,0.415,0.485
+Yes,Women,Pooled,4.83,0.458,0.424,0.494
+Yes,Women,Pooled,4.87,0.462,0.428,0.498
+Yes,Women,Pooled,4.90,0.468,0.433,0.503
+Yes,Women,Pooled,4.93,0.471,0.437,0.507
+Yes,Women,Pooled,4.97,0.475,0.441,0.511
+Yes,Women,Pooled,5.00,0.481,0.446,0.516
+Yes,Women,Pooled,5.03,0.488,0.454,0.524
+Yes,Women,Pooled,5.07,0.495,0.460,0.530
+Yes,Women,Pooled,5.10,0.501,0.467,0.537
+Yes,Women,Pooled,5.13,0.503,0.468,0.538
+Yes,Women,Pooled,5.17,0.505,0.471,0.541
+Yes,Women,Pooled,5.20,0.510,0.476,0.546
+Yes,Women,Pooled,5.23,0.513,0.478,0.548
+Yes,Women,Pooled,5.27,0.516,0.481,0.551
+Yes,Women,Pooled,5.30,0.519,0.485,0.555
+Yes,Women,Pooled,5.33,0.523,0.489,0.559
+Yes,Women,Pooled,5.37,0.526,0.491,0.561
+Yes,Women,Pooled,5.40,0.530,0.495,0.565
+Yes,Women,Pooled,5.43,0.531,0.497,0.567
+Yes,Women,Pooled,5.47,0.534,0.499,0.569
+Yes,Women,Pooled,5.50,0.536,0.502,0.572
+Yes,Women,Pooled,5.53,0.542,0.507,0.577
+Yes,Women,Pooled,5.57,0.544,0.510,0.579
+Yes,Women,Pooled,5.63,0.547,0.512,0.582
+Yes,Women,Pooled,5.67,0.548,0.514,0.583
+Yes,Women,Pooled,5.70,0.549,0.515,0.585
+Yes,Women,Pooled,5.73,0.551,0.516,0.586
+Yes,Women,Pooled,5.83,0.552,0.517,0.587
+Yes,Women,Pooled,5.90,0.556,0.521,0.591
+Yes,Women,Pooled,5.93,0.557,0.523,0.592
+Yes,Women,Pooled,5.97,0.558,0.524,0.594
+Yes,Women,Pooled,6.00,0.560,0.525,0.595
+Yes,Women,Pooled,6.10,0.562,0.528,0.597
+Yes,Women,Pooled,6.13,0.565,0.530,0.600
+Yes,Women,Pooled,6.17,0.566,0.532,0.601
+Yes,Women,Pooled,6.20,0.568,0.533,0.603
+Yes,Women,Pooled,6.27,0.569,0.534,0.604
+Yes,Women,Pooled,6.30,0.570,0.536,0.605
+Yes,Women,Pooled,6.33,0.571,0.537,0.606
+Yes,Women,Pooled,6.40,0.573,0.538,0.608
+Yes,Women,Pooled,6.43,0.574,0.540,0.609
+Yes,Women,Pooled,6.47,0.577,0.542,0.612
+Yes,Women,Pooled,6.50,0.578,0.544,0.613
+Yes,Women,Pooled,6.53,0.581,0.546,0.615
+Yes,Women,Pooled,6.67,0.582,0.548,0.617
+Yes,Women,Pooled,6.73,0.583,0.549,0.618
+Yes,Women,Pooled,6.77,0.586,0.551,0.621
+Yes,Women,Pooled,6.80,0.588,0.554,0.623
+Yes,Women,Pooled,6.87,0.591,0.557,0.626
+Yes,Women,Pooled,6.93,0.592,0.558,0.627
+Yes,Women,Pooled,6.97,0.594,0.559,0.628
+Yes,Women,Pooled,7.00,0.595,0.561,0.630
+Yes,Women,Pooled,7.07,0.596,0.562,0.631
+Yes,Women,Pooled,7.10,0.598,0.563,0.632
+Yes,Women,Pooled,7.13,0.602,0.567,0.636
+Yes,Women,Pooled,7.17,0.604,0.570,0.639
+Yes,Women,Pooled,7.20,0.605,0.571,0.640
+Yes,Women,Pooled,7.27,0.608,0.574,0.642
+Yes,Women,Pooled,7.30,0.609,0.575,0.644
+Yes,Women,Pooled,7.33,0.611,0.577,0.645
+Yes,Women,Pooled,7.37,0.612,0.578,0.646
+Yes,Women,Pooled,7.40,0.613,0.579,0.648
+Yes,Women,Pooled,7.43,0.616,0.582,0.650
+Yes,Women,Pooled,7.47,0.617,0.583,0.651
+Yes,Women,Pooled,7.53,0.619,0.584,0.653
+Yes,Women,Pooled,7.57,0.620,0.586,0.654
+Yes,Women,Pooled,7.63,0.622,0.588,0.657
+Yes,Women,Pooled,7.67,0.624,0.590,0.658
+Yes,Women,Pooled,7.70,0.625,0.591,0.659
+Yes,Women,Pooled,7.73,0.628,0.594,0.662
+Yes,Women,Pooled,7.77,0.629,0.595,0.663
+Yes,Women,Pooled,7.80,0.632,0.598,0.666
+Yes,Women,Pooled,7.83,0.633,0.599,0.667
+Yes,Women,Pooled,7.87,0.634,0.600,0.668
+Yes,Women,Pooled,7.90,0.637,0.603,0.671
+Yes,Women,Pooled,7.93,0.641,0.607,0.675
+Yes,Women,Pooled,7.97,0.647,0.614,0.681
+Yes,Women,Pooled,8.00,0.653,0.619,0.686
+Yes,Women,Pooled,8.03,0.655,0.622,0.689
+Yes,Women,Pooled,8.07,0.659,0.626,0.692
+Yes,Women,Pooled,8.10,0.662,0.628,0.695
+Yes,Women,Pooled,8.17,0.663,0.630,0.696
+Yes,Women,Pooled,8.20,0.664,0.631,0.698
+Yes,Women,Pooled,8.23,0.666,0.632,0.699
+Yes,Women,Pooled,8.27,0.668,0.635,0.701
+Yes,Women,Pooled,8.40,0.671,0.638,0.704
+Yes,Women,Pooled,8.43,0.674,0.640,0.706
+Yes,Women,Pooled,8.47,0.676,0.643,0.709
+Yes,Women,Pooled,8.50,0.678,0.645,0.710
+Yes,Women,Pooled,8.53,0.683,0.650,0.715
+Yes,Women,Pooled,8.60,0.687,0.654,0.719
+Yes,Women,Pooled,8.63,0.690,0.657,0.722
+Yes,Women,Pooled,8.70,0.695,0.662,0.727
+Yes,Women,Pooled,8.73,0.696,0.663,0.728
+Yes,Women,Pooled,8.77,0.698,0.665,0.730
+Yes,Women,Pooled,8.80,0.699,0.666,0.731
+Yes,Women,Pooled,8.83,0.703,0.670,0.735
+Yes,Women,Pooled,8.87,0.704,0.672,0.736
+Yes,Women,Pooled,8.90,0.705,0.673,0.737
+Yes,Women,Pooled,8.93,0.707,0.674,0.739
+Yes,Women,Pooled,9.17,0.709,0.677,0.741
+Yes,Women,Pooled,9.23,0.711,0.678,0.742
+Yes,Women,Pooled,9.27,0.713,0.681,0.745
+Yes,Women,Pooled,9.30,0.715,0.683,0.746
+Yes,Women,Pooled,9.37,0.716,0.684,0.748
+Yes,Women,Pooled,9.40,0.717,0.685,0.749
+Yes,Women,Pooled,9.43,0.721,0.689,0.753
+Yes,Women,Pooled,9.50,0.723,0.691,0.754
+Yes,Women,Pooled,9.57,0.727,0.695,0.758
+Yes,Women,Pooled,9.60,0.728,0.696,0.759
+Yes,Women,Pooled,9.67,0.731,0.699,0.762
+Yes,Women,Pooled,9.73,0.732,0.700,0.763
+Yes,Women,Pooled,9.77,0.734,0.702,0.764
+Yes,Women,Pooled,9.80,0.735,0.703,0.766
+Yes,Women,Pooled,9.83,0.738,0.706,0.768
+Yes,Women,Pooled,9.87,0.739,0.707,0.769
+Yes,Women,Pooled,9.90,0.742,0.710,0.772
+Yes,Women,Pooled,10.03,0.743,0.712,0.773
+Yes,Women,Pooled,10.07,0.744,0.713,0.775
+Yes,Women,Pooled,10.13,0.747,0.716,0.777
+Yes,Women,Pooled,10.20,0.748,0.717,0.778
+Yes,Women,Pooled,10.23,0.750,0.718,0.780
+Yes,Women,Pooled,10.27,0.751,0.720,0.781
+Yes,Women,Pooled,10.33,0.752,0.721,0.782
+Yes,Women,Pooled,10.37,0.754,0.723,0.784
+Yes,Women,Pooled,10.47,0.758,0.727,0.787
+Yes,Women,Pooled,10.57,0.759,0.728,0.789
+Yes,Women,Pooled,10.63,0.760,0.730,0.790
+Yes,Women,Pooled,10.67,0.762,0.731,0.791
+Yes,Women,Pooled,10.83,0.764,0.734,0.794
+Yes,Women,Pooled,10.93,0.767,0.737,0.796
+Yes,Women,Pooled,10.97,0.768,0.738,0.798
+Yes,Women,Pooled,11.07,0.770,0.739,0.799
+Yes,Women,Pooled,11.10,0.771,0.741,0.800
+Yes,Women,Pooled,11.20,0.775,0.745,0.804
+Yes,Women,Pooled,11.23,0.777,0.746,0.805
+Yes,Women,Pooled,11.27,0.778,0.748,0.807
+Yes,Women,Pooled,11.47,0.782,0.752,0.811
+Yes,Women,Pooled,11.57,0.785,0.755,0.813
+Yes,Women,Pooled,11.60,0.786,0.756,0.814
+Yes,Women,Pooled,11.63,0.787,0.758,0.816
+Yes,Women,Pooled,11.70,0.790,0.760,0.818
+Yes,Women,Pooled,11.73,0.793,0.763,0.821
+Yes,Women,Pooled,11.80,0.794,0.765,0.822
+Yes,Women,Pooled,11.83,0.795,0.766,0.823
+Yes,Women,Pooled,11.87,0.797,0.767,0.825
+Yes,Women,Pooled,11.90,0.802,0.773,0.830
+Yes,Women,Pooled,11.93,0.803,0.774,0.831
+Yes,Women,Pooled,11.97,0.806,0.777,0.833
+Yes,Women,Pooled,12.03,0.808,0.779,0.835
+Yes,Women,Pooled,12.07,0.809,0.780,0.836
+Yes,Women,Pooled,12.10,0.810,0.782,0.837
+Yes,Women,Pooled,12.20,0.812,0.783,0.839
+Yes,Women,Pooled,12.27,0.813,0.784,0.840
+Yes,Women,Pooled,12.43,0.814,0.786,0.841
+Yes,Women,Pooled,12.47,0.817,0.789,0.844
+Yes,Women,Pooled,12.50,0.818,0.790,0.845
+Yes,Women,Pooled,12.53,0.820,0.791,0.846
+Yes,Women,Pooled,12.57,0.822,0.794,0.849
+Yes,Women,Pooled,12.60,0.824,0.796,0.850
+Yes,Women,Pooled,12.63,0.825,0.797,0.851
+Yes,Women,Pooled,12.67,0.826,0.799,0.852
+Yes,Women,Pooled,12.73,0.829,0.801,0.855
+Yes,Women,Pooled,12.77,0.830,0.803,0.856
+Yes,Women,Pooled,12.80,0.833,0.806,0.859
+Yes,Women,Pooled,12.83,0.835,0.807,0.860
+Yes,Women,Pooled,12.87,0.837,0.810,0.863
+Yes,Women,Pooled,12.97,0.840,0.813,0.865
+Yes,Women,Pooled,13.07,0.841,0.814,0.866
+Yes,Women,Pooled,13.13,0.843,0.816,0.868
+Yes,Women,Pooled,13.20,0.844,0.817,0.869
+Yes,Women,Pooled,13.23,0.845,0.819,0.870
+Yes,Women,Pooled,13.33,0.847,0.820,0.872
+Yes,Women,Pooled,13.37,0.848,0.822,0.873
+Yes,Women,Pooled,13.43,0.851,0.825,0.875
+Yes,Women,Pooled,13.47,0.852,0.826,0.877
+Yes,Women,Pooled,13.57,0.856,0.830,0.880
+Yes,Women,Pooled,13.67,0.859,0.833,0.883
+Yes,Women,Pooled,13.70,0.862,0.836,0.885
+Yes,Women,Pooled,13.90,0.863,0.838,0.887
+Yes,Women,Pooled,13.93,0.865,0.839,0.888
+Yes,Women,Pooled,14.03,0.867,0.842,0.891
+Yes,Women,Pooled,14.10,0.869,0.843,0.892
+Yes,Women,Pooled,14.20,0.870,0.845,0.893
+Yes,Women,Pooled,14.33,0.873,0.848,0.896
+Yes,Women,Pooled,14.37,0.874,0.849,0.897
+Yes,Women,Pooled,14.40,0.876,0.851,0.898
+Yes,Women,Pooled,14.43,0.877,0.852,0.899
+Yes,Women,Pooled,14.63,0.878,0.854,0.901
+Yes,Women,Pooled,14.70,0.880,0.855,0.902
+Yes,Women,Pooled,14.93,0.881,0.857,0.903
+Yes,Women,Pooled,14.97,0.882,0.858,0.904
+Yes,Women,Pooled,15.07,0.884,0.860,0.906
+Yes,Women,Pooled,15.17,0.885,0.861,0.907
+Yes,Women,Pooled,15.27,0.887,0.863,0.908
+Yes,Women,Pooled,15.37,0.888,0.864,0.909
+Yes,Women,Pooled,15.47,0.889,0.866,0.911
+Yes,Women,Pooled,15.50,0.891,0.867,0.912
+Yes,Women,Pooled,15.57,0.892,0.868,0.913
+Yes,Women,Pooled,15.67,0.895,0.871,0.915
+Yes,Women,Pooled,15.77,0.896,0.873,0.917
+Yes,Women,Pooled,15.80,0.897,0.874,0.918
+Yes,Women,Pooled,15.83,0.899,0.876,0.919
+Yes,Women,Pooled,16.07,0.900,0.877,0.920
+Yes,Women,Pooled,16.20,0.902,0.879,0.922
+Yes,Women,Pooled,16.23,0.903,0.880,0.923
+Yes,Women,Pooled,16.30,0.904,0.882,0.924
+Yes,Women,Pooled,16.43,0.906,0.883,0.925
+Yes,Women,Pooled,16.47,0.907,0.885,0.927
+Yes,Women,Pooled,16.70,0.908,0.886,0.928
+Yes,Women,Pooled,16.83,0.910,0.888,0.929
+Yes,Women,Pooled,16.97,0.911,0.889,0.930
+Yes,Women,Pooled,17.23,0.913,0.891,0.931
+Yes,Women,Pooled,17.43,0.914,0.892,0.933
+Yes,Women,Pooled,17.53,0.915,0.894,0.934
+Yes,Women,Pooled,17.63,0.917,0.895,0.935
+Yes,Women,Pooled,17.70,0.918,0.897,0.936
+Yes,Women,Pooled,17.77,0.919,0.898,0.938
+Yes,Women,Pooled,17.97,0.921,0.900,0.939
+Yes,Women,Pooled,18.17,0.922,0.901,0.940
+Yes,Women,Pooled,18.23,0.923,0.903,0.941
+Yes,Women,Pooled,18.37,0.925,0.904,0.942
+Yes,Women,Pooled,19.03,0.926,0.906,0.944
+Yes,Women,Pooled,19.17,0.928,0.907,0.945
+Yes,Women,Pooled,19.23,0.930,0.911,0.947
+Yes,Women,Pooled,19.43,0.932,0.912,0.948
+Yes,Women,Pooled,19.53,0.933,0.914,0.950
+Yes,Women,Pooled,19.60,0.936,0.917,0.952
+Yes,Women,Pooled,19.90,0.937,0.918,0.953
+Yes,Women,Pooled,19.97,0.939,0.920,0.955
+Yes,Women,Pooled,20.00,0.940,0.921,0.956
+Yes,Women,Pooled,20.03,0.942,0.923,0.957
+Yes,Women,Pooled,20.10,0.943,0.925,0.958
+Yes,Women,Pooled,20.27,0.944,0.926,0.959
+Yes,Women,Pooled,20.37,0.946,0.928,0.961
+Yes,Women,Pooled,20.60,0.949,0.931,0.963
+Yes,Women,Pooled,20.87,0.950,0.932,0.964
+Yes,Women,Pooled,20.93,0.951,0.934,0.965
+Yes,Women,Pooled,20.97,0.953,0.936,0.967
+Yes,Women,Pooled,21.03,0.956,0.939,0.969
+Yes,Women,Pooled,21.83,0.957,0.941,0.970
+Yes,Women,Pooled,21.93,0.959,0.942,0.971
+Yes,Women,Pooled,22.13,0.962,0.946,0.974
+Yes,Women,Pooled,22.33,0.963,0.947,0.975
+Yes,Women,Pooled,22.37,0.965,0.949,0.976
+Yes,Women,Pooled,22.80,0.967,0.953,0.979
+Yes,Women,Pooled,23.33,0.969,0.954,0.980
+Yes,Women,Pooled,23.67,0.971,0.956,0.981
+Yes,Women,Pooled,23.90,0.972,0.958,0.982
+Yes,Women,Pooled,24.30,0.974,0.960,0.984
+Yes,Women,Pooled,24.70,0.975,0.962,0.985
+Yes,Women,Pooled,24.80,0.977,0.963,0.986
+Yes,Women,Pooled,25.10,0.978,0.965,0.987
+Yes,Women,Pooled,26.40,0.980,0.967,0.988
+Yes,Women,Pooled,26.97,0.981,0.969,0.990
+Yes,Women,Pooled,27.63,0.983,0.971,0.991
+Yes,Women,Pooled,29.17,0.985,0.973,0.992
+Yes,Women,Pooled,31.27,0.986,0.975,0.993
+Yes,Women,Pooled,33.00,0.988,0.977,0.994
+Yes,Women,Pooled,33.80,0.989,0.979,0.995
+Yes,Women,Pooled,34.53,0.991,0.981,0.996
+Yes,Women,Pooled,34.73,0.992,0.983,0.997
+Yes,Women,Pooled,36.17,0.994,0.985,0.998
+Yes,Women,Pooled,39.30,0.995,0.987,0.999
+Yes,Women,Pooled,40.90,0.997,0.989,0.999
+Yes,Women,Pooled,42.50,0.998,0.992,1.000
+Yes,Women,Pooled,43.90,1.000,,
+No,Men,Ball in/out,0.76,0.001,0.000,0.007
+No,Men,Ball in/out,0.80,0.005,0.002,0.012
+No,Men,Ball in/out,0.84,0.006,0.002,0.014
+No,Men,Ball in/out,0.96,0.007,0.003,0.016
+No,Men,Ball in/out,1.24,0.009,0.004,0.017
+No,Men,Ball in/out,1.60,0.011,0.006,0.020
+No,Men,Ball in/out,1.68,0.012,0.006,0.022
+No,Men,Ball in/out,1.88,0.014,0.007,0.024
+No,Men,Ball in/out,1.92,0.015,0.008,0.025
+No,Men,Ball in/out,2.24,0.016,0.009,0.027
+No,Men,Ball in/out,2.32,0.017,0.010,0.028
+No,Men,Ball in/out,2.48,0.021,0.013,0.033
+No,Men,Ball in/out,2.52,0.022,0.014,0.034
+No,Men,Ball in/out,2.60,0.024,0.015,0.036
+No,Men,Ball in/out,2.64,0.025,0.016,0.037
+No,Men,Ball in/out,2.68,0.026,0.017,0.039
+No,Men,Ball in/out,2.80,0.030,0.020,0.043
+No,Men,Ball in/out,2.84,0.031,0.021,0.045
+No,Men,Ball in/out,2.88,0.034,0.023,0.048
+No,Men,Ball in/out,2.96,0.040,0.028,0.055
+No,Men,Ball in/out,2.97,0.041,0.029,0.056
+No,Men,Ball in/out,3.00,0.044,0.031,0.059
+No,Men,Ball in/out,3.04,0.047,0.034,0.064
+No,Men,Ball in/out,3.08,0.052,0.038,0.069
+No,Men,Ball in/out,3.12,0.056,0.042,0.074
+No,Men,Ball in/out,3.16,0.061,0.046,0.079
+No,Men,Ball in/out,3.20,0.072,0.056,0.092
+No,Men,Ball in/out,3.23,0.074,0.057,0.093
+No,Men,Ball in/out,3.24,0.080,0.062,0.100
+No,Men,Ball in/out,3.27,0.081,0.064,0.101
+No,Men,Ball in/out,3.28,0.087,0.069,0.108
+No,Men,Ball in/out,3.32,0.094,0.075,0.115
+No,Men,Ball in/out,3.33,0.095,0.076,0.116
+No,Men,Ball in/out,3.36,0.104,0.084,0.126
+No,Men,Ball in/out,3.40,0.106,0.086,0.129
+No,Men,Ball in/out,3.44,0.114,0.093,0.137
+No,Men,Ball in/out,3.48,0.124,0.102,0.148
+No,Men,Ball in/out,3.50,0.125,0.103,0.149
+No,Men,Ball in/out,3.52,0.126,0.104,0.150
+No,Men,Ball in/out,3.56,0.132,0.110,0.157
+No,Men,Ball in/out,3.60,0.139,0.116,0.164
+No,Men,Ball in/out,3.63,0.140,0.117,0.165
+No,Men,Ball in/out,3.64,0.150,0.126,0.176
+No,Men,Ball in/out,3.68,0.157,0.133,0.184
+No,Men,Ball in/out,3.72,0.161,0.137,0.188
+No,Men,Ball in/out,3.76,0.178,0.152,0.205
+No,Men,Ball in/out,3.80,0.188,0.161,0.215
+No,Men,Ball in/out,3.84,0.203,0.175,0.231
+No,Men,Ball in/out,3.88,0.213,0.185,0.242
+No,Men,Ball in/out,3.92,0.225,0.197,0.255
+No,Men,Ball in/out,3.96,0.241,0.212,0.272
+No,Men,Ball in/out,4.03,0.260,0.230,0.291
+No,Men,Ball in/out,4.04,0.272,0.241,0.303
+No,Men,Ball in/out,4.08,0.279,0.248,0.310
+No,Men,Ball in/out,4.12,0.292,0.260,0.323
+No,Men,Ball in/out,4.16,0.305,0.274,0.338
+No,Men,Ball in/out,4.20,0.321,0.288,0.353
+No,Men,Ball in/out,4.24,0.331,0.298,0.363
+No,Men,Ball in/out,4.28,0.341,0.308,0.374
+No,Men,Ball in/out,4.32,0.355,0.321,0.388
+No,Men,Ball in/out,4.36,0.366,0.333,0.399
+No,Men,Ball in/out,4.40,0.377,0.344,0.411
+No,Men,Ball in/out,4.44,0.380,0.346,0.413
+No,Men,Ball in/out,4.48,0.394,0.360,0.428
+No,Men,Ball in/out,4.52,0.404,0.370,0.438
+No,Men,Ball in/out,4.56,0.414,0.380,0.448
+No,Men,Ball in/out,4.60,0.424,0.390,0.458
+No,Men,Ball in/out,4.64,0.431,0.396,0.465
+No,Men,Ball in/out,4.68,0.438,0.404,0.472
+No,Men,Ball in/out,4.72,0.446,0.411,0.480
+No,Men,Ball in/out,4.76,0.455,0.420,0.489
+No,Men,Ball in/out,4.88,0.468,0.432,0.502
+No,Men,Ball in/out,4.92,0.473,0.438,0.507
+No,Men,Ball in/out,4.96,0.480,0.445,0.515
+No,Men,Ball in/out,5.00,0.487,0.451,0.521
+No,Men,Ball in/out,5.04,0.496,0.460,0.530
+No,Men,Ball in/out,5.08,0.502,0.467,0.536
+No,Men,Ball in/out,5.12,0.506,0.471,0.540
+No,Men,Ball in/out,5.16,0.507,0.472,0.541
+No,Men,Ball in/out,5.24,0.514,0.478,0.548
+No,Men,Ball in/out,5.28,0.518,0.482,0.552
+No,Men,Ball in/out,5.32,0.524,0.489,0.558
+No,Men,Ball in/out,5.36,0.525,0.490,0.559
+No,Men,Ball in/out,5.37,0.527,0.491,0.561
+No,Men,Ball in/out,5.40,0.530,0.495,0.564
+No,Men,Ball in/out,5.44,0.536,0.500,0.570
+No,Men,Ball in/out,5.52,0.539,0.504,0.573
+No,Men,Ball in/out,5.56,0.541,0.505,0.575
+No,Men,Ball in/out,5.60,0.542,0.507,0.576
+No,Men,Ball in/out,5.60,0.545,0.509,0.579
+No,Men,Ball in/out,5.64,0.547,0.512,0.581
+No,Men,Ball in/out,5.68,0.550,0.514,0.584
+No,Men,Ball in/out,5.72,0.551,0.516,0.585
+No,Men,Ball in/out,5.77,0.552,0.517,0.586
+No,Men,Ball in/out,5.80,0.555,0.519,0.589
+No,Men,Ball in/out,5.88,0.557,0.522,0.591
+No,Men,Ball in/out,5.92,0.560,0.525,0.594
+No,Men,Ball in/out,6.03,0.561,0.526,0.595
+No,Men,Ball in/out,6.04,0.563,0.527,0.596
+No,Men,Ball in/out,6.13,0.564,0.529,0.598
+No,Men,Ball in/out,6.16,0.565,0.530,0.599
+No,Men,Ball in/out,6.24,0.566,0.531,0.600
+No,Men,Ball in/out,6.44,0.568,0.532,0.602
+No,Men,Ball in/out,6.52,0.569,0.534,0.603
+No,Men,Ball in/out,6.56,0.570,0.535,0.604
+No,Men,Ball in/out,6.60,0.572,0.536,0.605
+No,Men,Ball in/out,6.68,0.574,0.539,0.608
+No,Men,Ball in/out,6.72,0.577,0.542,0.611
+No,Men,Ball in/out,6.76,0.578,0.543,0.612
+No,Men,Ball in/out,6.80,0.579,0.544,0.613
+No,Men,Ball in/out,6.84,0.582,0.547,0.616
+No,Men,Ball in/out,6.88,0.583,0.548,0.617
+No,Men,Ball in/out,6.96,0.585,0.549,0.618
+No,Men,Ball in/out,7.00,0.586,0.551,0.619
+No,Men,Ball in/out,7.04,0.587,0.552,0.621
+No,Men,Ball in/out,7.08,0.595,0.560,0.628
+No,Men,Ball in/out,7.12,0.599,0.564,0.632
+No,Men,Ball in/out,7.16,0.600,0.565,0.634
+No,Men,Ball in/out,7.20,0.604,0.569,0.637
+No,Men,Ball in/out,7.24,0.605,0.570,0.639
+No,Men,Ball in/out,7.28,0.607,0.572,0.640
+No,Men,Ball in/out,7.32,0.611,0.576,0.644
+No,Men,Ball in/out,7.40,0.612,0.577,0.645
+No,Men,Ball in/out,7.44,0.616,0.581,0.649
+No,Men,Ball in/out,7.48,0.620,0.585,0.653
+No,Men,Ball in/out,7.52,0.621,0.586,0.654
+No,Men,Ball in/out,7.60,0.624,0.589,0.657
+No,Men,Ball in/out,7.68,0.626,0.591,0.659
+No,Men,Ball in/out,7.72,0.629,0.594,0.662
+No,Men,Ball in/out,7.76,0.630,0.595,0.663
+No,Men,Ball in/out,7.84,0.639,0.605,0.672
+No,Men,Ball in/out,7.88,0.645,0.610,0.677
+No,Men,Ball in/out,7.92,0.647,0.613,0.680
+No,Men,Ball in/out,7.96,0.651,0.617,0.683
+No,Men,Ball in/out,8.00,0.654,0.619,0.686
+No,Men,Ball in/out,8.04,0.656,0.622,0.688
+No,Men,Ball in/out,8.08,0.659,0.625,0.691
+No,Men,Ball in/out,8.12,0.663,0.629,0.695
+No,Men,Ball in/out,8.16,0.664,0.630,0.696
+No,Men,Ball in/out,8.24,0.668,0.634,0.700
+No,Men,Ball in/out,8.28,0.669,0.635,0.701
+No,Men,Ball in/out,8.32,0.673,0.639,0.705
+No,Men,Ball in/out,8.36,0.676,0.642,0.708
+No,Men,Ball in/out,8.40,0.677,0.643,0.709
+No,Men,Ball in/out,8.44,0.680,0.646,0.711
+No,Men,Ball in/out,8.48,0.684,0.650,0.715
+No,Men,Ball in/out,8.52,0.687,0.653,0.718
+No,Men,Ball in/out,8.56,0.688,0.654,0.719
+No,Men,Ball in/out,8.60,0.690,0.657,0.722
+No,Men,Ball in/out,8.68,0.693,0.659,0.724
+No,Men,Ball in/out,8.76,0.696,0.662,0.727
+No,Men,Ball in/out,8.84,0.701,0.668,0.732
+No,Men,Ball in/out,8.88,0.702,0.669,0.733
+No,Men,Ball in/out,8.92,0.704,0.670,0.734
+No,Men,Ball in/out,9.00,0.708,0.674,0.738
+No,Men,Ball in/out,9.04,0.709,0.676,0.740
+No,Men,Ball in/out,9.07,0.710,0.677,0.741
+No,Men,Ball in/out,9.08,0.712,0.678,0.742
+No,Men,Ball in/out,9.12,0.713,0.680,0.743
+No,Men,Ball in/out,9.16,0.714,0.681,0.745
+No,Men,Ball in/out,9.24,0.718,0.685,0.749
+No,Men,Ball in/out,9.40,0.722,0.689,0.752
+No,Men,Ball in/out,9.44,0.724,0.691,0.754
+No,Men,Ball in/out,9.48,0.726,0.693,0.756
+No,Men,Ball in/out,9.56,0.728,0.695,0.758
+No,Men,Ball in/out,9.72,0.729,0.696,0.759
+No,Men,Ball in/out,9.76,0.730,0.698,0.760
+No,Men,Ball in/out,9.80,0.732,0.699,0.761
+No,Men,Ball in/out,9.84,0.733,0.700,0.763
+No,Men,Ball in/out,9.88,0.734,0.702,0.764
+No,Men,Ball in/out,9.92,0.736,0.703,0.765
+No,Men,Ball in/out,9.96,0.737,0.704,0.766
+No,Men,Ball in/out,10.00,0.738,0.706,0.768
+No,Men,Ball in/out,10.08,0.740,0.707,0.769
+No,Men,Ball in/out,10.12,0.741,0.709,0.770
+No,Men,Ball in/out,10.13,0.742,0.710,0.772
+No,Men,Ball in/out,10.16,0.744,0.711,0.773
+No,Men,Ball in/out,10.24,0.745,0.713,0.774
+No,Men,Ball in/out,10.28,0.746,0.714,0.775
+No,Men,Ball in/out,10.36,0.748,0.716,0.777
+No,Men,Ball in/out,10.44,0.752,0.720,0.781
+No,Men,Ball in/out,10.60,0.753,0.721,0.782
+No,Men,Ball in/out,10.76,0.754,0.722,0.783
+No,Men,Ball in/out,10.80,0.757,0.725,0.786
+No,Men,Ball in/out,10.84,0.758,0.727,0.787
+No,Men,Ball in/out,10.88,0.760,0.728,0.788
+No,Men,Ball in/out,10.96,0.764,0.732,0.792
+No,Men,Ball in/out,11.03,0.765,0.734,0.793
+No,Men,Ball in/out,11.08,0.766,0.735,0.795
+No,Men,Ball in/out,11.16,0.771,0.739,0.799
+No,Men,Ball in/out,11.20,0.772,0.741,0.800
+No,Men,Ball in/out,11.28,0.773,0.742,0.801
+No,Men,Ball in/out,11.32,0.776,0.745,0.804
+No,Men,Ball in/out,11.40,0.777,0.746,0.805
+No,Men,Ball in/out,11.44,0.779,0.748,0.807
+No,Men,Ball in/out,11.52,0.780,0.749,0.808
+No,Men,Ball in/out,11.56,0.782,0.751,0.809
+No,Men,Ball in/out,11.67,0.784,0.753,0.812
+No,Men,Ball in/out,11.68,0.788,0.758,0.816
+No,Men,Ball in/out,11.72,0.791,0.761,0.818
+No,Men,Ball in/out,11.76,0.792,0.762,0.819
+No,Men,Ball in/out,11.88,0.794,0.763,0.821
+No,Men,Ball in/out,12.00,0.797,0.766,0.823
+No,Men,Ball in/out,12.04,0.798,0.768,0.825
+No,Men,Ball in/out,12.12,0.801,0.771,0.827
+No,Men,Ball in/out,12.13,0.802,0.772,0.829
+No,Men,Ball in/out,12.16,0.803,0.773,0.830
+No,Men,Ball in/out,12.20,0.806,0.776,0.832
+No,Men,Ball in/out,12.28,0.807,0.778,0.834
+No,Men,Ball in/out,12.32,0.810,0.781,0.836
+No,Men,Ball in/out,12.33,0.812,0.782,0.838
+No,Men,Ball in/out,12.36,0.813,0.783,0.839
+No,Men,Ball in/out,12.44,0.814,0.785,0.840
+No,Men,Ball in/out,12.48,0.816,0.786,0.841
+No,Men,Ball in/out,12.52,0.817,0.788,0.843
+No,Men,Ball in/out,12.68,0.821,0.792,0.847
+No,Men,Ball in/out,12.73,0.823,0.794,0.848
+No,Men,Ball in/out,12.76,0.824,0.795,0.849
+No,Men,Ball in/out,12.88,0.827,0.798,0.852
+No,Men,Ball in/out,12.92,0.828,0.799,0.853
+No,Men,Ball in/out,13.08,0.829,0.801,0.854
+No,Men,Ball in/out,13.32,0.831,0.802,0.856
+No,Men,Ball in/out,13.36,0.832,0.804,0.857
+No,Men,Ball in/out,13.40,0.834,0.805,0.858
+No,Men,Ball in/out,13.56,0.835,0.807,0.859
+No,Men,Ball in/out,13.64,0.836,0.808,0.861
+No,Men,Ball in/out,13.68,0.838,0.809,0.862
+No,Men,Ball in/out,13.88,0.840,0.812,0.865
+No,Men,Ball in/out,13.92,0.842,0.814,0.866
+No,Men,Ball in/out,14.00,0.843,0.815,0.867
+No,Men,Ball in/out,14.16,0.846,0.818,0.870
+No,Men,Ball in/out,14.20,0.847,0.820,0.871
+No,Men,Ball in/out,14.28,0.849,0.821,0.872
+No,Men,Ball in/out,14.52,0.850,0.823,0.874
+No,Men,Ball in/out,14.56,0.851,0.824,0.875
+No,Men,Ball in/out,14.68,0.853,0.826,0.876
+No,Men,Ball in/out,14.72,0.854,0.827,0.877
+No,Men,Ball in/out,14.76,0.856,0.829,0.879
+No,Men,Ball in/out,14.80,0.857,0.830,0.880
+No,Men,Ball in/out,14.83,0.858,0.832,0.881
+No,Men,Ball in/out,15.08,0.860,0.833,0.883
+No,Men,Ball in/out,15.48,0.861,0.834,0.884
+No,Men,Ball in/out,15.72,0.863,0.836,0.885
+No,Men,Ball in/out,15.76,0.864,0.837,0.886
+No,Men,Ball in/out,15.88,0.867,0.840,0.889
+No,Men,Ball in/out,15.96,0.868,0.842,0.890
+No,Men,Ball in/out,16.00,0.869,0.843,0.892
+No,Men,Ball in/out,16.04,0.871,0.845,0.893
+No,Men,Ball in/out,16.12,0.872,0.846,0.894
+No,Men,Ball in/out,16.24,0.874,0.848,0.895
+No,Men,Ball in/out,16.36,0.875,0.849,0.897
+No,Men,Ball in/out,16.52,0.876,0.851,0.898
+No,Men,Ball in/out,16.60,0.878,0.852,0.899
+No,Men,Ball in/out,16.64,0.879,0.854,0.900
+No,Men,Ball in/out,16.72,0.881,0.855,0.902
+No,Men,Ball in/out,16.76,0.883,0.858,0.904
+No,Men,Ball in/out,16.88,0.885,0.860,0.905
+No,Men,Ball in/out,16.92,0.886,0.861,0.907
+No,Men,Ball in/out,17.04,0.888,0.863,0.908
+No,Men,Ball in/out,17.60,0.889,0.864,0.909
+No,Men,Ball in/out,17.76,0.890,0.866,0.911
+No,Men,Ball in/out,18.36,0.892,0.868,0.912
+No,Men,Ball in/out,18.50,0.893,0.869,0.913
+No,Men,Ball in/out,18.80,0.895,0.871,0.915
+No,Men,Ball in/out,18.97,0.896,0.872,0.916
+No,Men,Ball in/out,20.28,0.898,0.874,0.917
+No,Men,Ball in/out,20.40,0.899,0.875,0.918
+No,Men,Ball in/out,20.64,0.902,0.878,0.921
+No,Men,Ball in/out,20.80,0.903,0.880,0.922
+No,Men,Ball in/out,20.88,0.905,0.881,0.923
+No,Men,Ball in/out,20.92,0.906,0.883,0.925
+No,Men,Ball in/out,21.04,0.907,0.885,0.926
+No,Men,Ball in/out,21.24,0.909,0.886,0.927
+No,Men,Ball in/out,21.28,0.910,0.888,0.929
+No,Men,Ball in/out,21.32,0.912,0.889,0.930
+No,Men,Ball in/out,21.96,0.913,0.891,0.931
+No,Men,Ball in/out,23.60,0.915,0.892,0.932
+No,Men,Ball in/out,23.80,0.916,0.894,0.934
+No,Men,Ball in/out,23.84,0.917,0.896,0.935
+No,Men,Ball in/out,24.32,0.919,0.897,0.936
+No,Men,Ball in/out,26.52,0.920,0.899,0.937
+No,Men,Ball in/out,28.30,0.922,0.900,0.939
+No,Men,Ball in/out,29.12,0.923,0.902,0.940
+No,Women,Ball in/out,1.03,0.001,0.000,0.008
+No,Women,Ball in/out,1.53,0.003,0.001,0.010
+No,Women,Ball in/out,1.63,0.004,0.001,0.012
+No,Women,Ball in/out,1.80,0.007,0.003,0.016
+No,Women,Ball in/out,2.17,0.009,0.004,0.018
+No,Women,Ball in/out,2.20,0.010,0.005,0.020
+No,Women,Ball in/out,2.27,0.012,0.006,0.022
+No,Women,Ball in/out,2.30,0.013,0.007,0.024
+No,Women,Ball in/out,2.40,0.018,0.010,0.030
+No,Women,Ball in/out,2.50,0.019,0.011,0.032
+No,Women,Ball in/out,2.57,0.021,0.012,0.034
+No,Women,Ball in/out,2.63,0.022,0.013,0.035
+No,Women,Ball in/out,2.67,0.024,0.014,0.037
+No,Women,Ball in/out,2.70,0.025,0.015,0.039
+No,Women,Ball in/out,2.77,0.027,0.016,0.041
+No,Women,Ball in/out,2.80,0.028,0.017,0.043
+No,Women,Ball in/out,2.83,0.030,0.019,0.044
+No,Women,Ball in/out,2.87,0.031,0.020,0.046
+No,Women,Ball in/out,2.90,0.032,0.021,0.048
+No,Women,Ball in/out,3.10,0.035,0.023,0.051
+No,Women,Ball in/out,3.17,0.037,0.025,0.053
+No,Women,Ball in/out,3.37,0.047,0.033,0.065
+No,Women,Ball in/out,3.47,0.056,0.041,0.075
+No,Women,Ball in/out,3.53,0.067,0.049,0.087
+No,Women,Ball in/out,3.57,0.071,0.053,0.092
+No,Women,Ball in/out,3.67,0.081,0.062,0.103
+No,Women,Ball in/out,3.70,0.086,0.066,0.108
+No,Women,Ball in/out,3.73,0.089,0.069,0.112
+No,Women,Ball in/out,3.77,0.095,0.074,0.118
+No,Women,Ball in/out,3.80,0.098,0.077,0.121
+No,Women,Ball in/out,3.83,0.104,0.082,0.128
+No,Women,Ball in/out,3.87,0.111,0.089,0.136
+No,Women,Ball in/out,3.90,0.115,0.093,0.141
+No,Women,Ball in/out,3.93,0.121,0.098,0.147
+No,Women,Ball in/out,3.97,0.130,0.106,0.157
+No,Women,Ball in/out,4.00,0.136,0.112,0.163
+No,Women,Ball in/out,4.07,0.149,0.124,0.177
+No,Women,Ball in/out,4.10,0.160,0.133,0.189
+No,Women,Ball in/out,4.13,0.172,0.144,0.201
+No,Women,Ball in/out,4.17,0.176,0.148,0.206
+No,Women,Ball in/out,4.23,0.188,0.160,0.218
+No,Women,Ball in/out,4.27,0.203,0.173,0.234
+No,Women,Ball in/out,4.30,0.213,0.183,0.245
+No,Women,Ball in/out,4.33,0.230,0.199,0.262
+No,Women,Ball in/out,4.37,0.237,0.206,0.270
+No,Women,Ball in/out,4.43,0.252,0.220,0.285
+No,Women,Ball in/out,4.47,0.264,0.231,0.297
+No,Women,Ball in/out,4.50,0.273,0.240,0.307
+No,Women,Ball in/out,4.53,0.283,0.250,0.317
+No,Women,Ball in/out,4.57,0.289,0.255,0.324
+No,Women,Ball in/out,4.60,0.298,0.264,0.333
+No,Women,Ball in/out,4.63,0.309,0.274,0.344
+No,Women,Ball in/out,4.67,0.313,0.278,0.348
+No,Women,Ball in/out,4.70,0.321,0.286,0.356
+No,Women,Ball in/out,4.73,0.331,0.296,0.367
+No,Women,Ball in/out,4.77,0.337,0.302,0.373
+No,Women,Ball in/out,4.80,0.346,0.310,0.382
+No,Women,Ball in/out,4.83,0.357,0.321,0.393
+No,Women,Ball in/out,4.87,0.361,0.325,0.397
+No,Women,Ball in/out,4.90,0.367,0.331,0.404
+No,Women,Ball in/out,4.93,0.372,0.335,0.408
+No,Women,Ball in/out,4.97,0.376,0.340,0.413
+No,Women,Ball in/out,5.03,0.391,0.354,0.428
+No,Women,Ball in/out,5.07,0.399,0.362,0.436
+No,Women,Ball in/out,5.10,0.406,0.369,0.443
+No,Women,Ball in/out,5.13,0.408,0.371,0.445
+No,Women,Ball in/out,5.17,0.411,0.374,0.448
+No,Women,Ball in/out,5.20,0.417,0.380,0.454
+No,Women,Ball in/out,5.23,0.420,0.383,0.457
+No,Women,Ball in/out,5.27,0.423,0.385,0.460
+No,Women,Ball in/out,5.30,0.428,0.390,0.465
+No,Women,Ball in/out,5.33,0.432,0.394,0.469
+No,Women,Ball in/out,5.43,0.440,0.402,0.477
+No,Women,Ball in/out,5.47,0.443,0.405,0.480
+No,Women,Ball in/out,5.50,0.446,0.408,0.483
+No,Women,Ball in/out,5.53,0.452,0.414,0.489
+No,Women,Ball in/out,5.57,0.455,0.417,0.492
+No,Women,Ball in/out,5.63,0.458,0.420,0.495
+No,Women,Ball in/out,5.67,0.459,0.421,0.497
+No,Women,Ball in/out,5.70,0.461,0.423,0.498
+No,Women,Ball in/out,5.73,0.462,0.424,0.500
+No,Women,Ball in/out,5.83,0.464,0.426,0.501
+No,Women,Ball in/out,5.90,0.468,0.430,0.506
+No,Women,Ball in/out,5.93,0.470,0.432,0.507
+No,Women,Ball in/out,5.97,0.471,0.433,0.509
+No,Women,Ball in/out,6.00,0.473,0.435,0.510
+No,Women,Ball in/out,6.10,0.476,0.438,0.513
+No,Women,Ball in/out,6.17,0.481,0.442,0.518
+No,Women,Ball in/out,6.20,0.482,0.444,0.519
+No,Women,Ball in/out,6.27,0.484,0.445,0.521
+No,Women,Ball in/out,6.33,0.485,0.447,0.522
+No,Women,Ball in/out,6.40,0.487,0.448,0.524
+No,Women,Ball in/out,6.43,0.488,0.450,0.525
+No,Women,Ball in/out,6.47,0.491,0.453,0.528
+No,Women,Ball in/out,6.50,0.493,0.454,0.530
+No,Women,Ball in/out,6.53,0.496,0.457,0.533
+No,Women,Ball in/out,6.73,0.497,0.459,0.535
+No,Women,Ball in/out,6.77,0.500,0.462,0.538
+No,Women,Ball in/out,6.87,0.505,0.466,0.542
+No,Women,Ball in/out,6.93,0.506,0.468,0.544
+No,Women,Ball in/out,6.97,0.508,0.469,0.545
+No,Women,Ball in/out,7.07,0.511,0.472,0.548
+No,Women,Ball in/out,7.10,0.512,0.474,0.550
+No,Women,Ball in/out,7.13,0.517,0.478,0.554
+No,Women,Ball in/out,7.17,0.520,0.481,0.557
+No,Women,Ball in/out,7.27,0.525,0.486,0.562
+No,Women,Ball in/out,7.30,0.526,0.487,0.563
+No,Women,Ball in/out,7.37,0.528,0.489,0.565
+No,Women,Ball in/out,7.40,0.529,0.491,0.566
+No,Women,Ball in/out,7.43,0.531,0.492,0.568
+No,Women,Ball in/out,7.47,0.532,0.494,0.569
+No,Women,Ball in/out,7.53,0.534,0.495,0.571
+No,Women,Ball in/out,7.63,0.537,0.498,0.574
+No,Women,Ball in/out,7.67,0.538,0.500,0.575
+No,Women,Ball in/out,7.70,0.540,0.501,0.577
+No,Women,Ball in/out,7.73,0.543,0.504,0.580
+No,Women,Ball in/out,7.77,0.544,0.506,0.581
+No,Women,Ball in/out,7.80,0.547,0.509,0.584
+No,Women,Ball in/out,7.83,0.549,0.510,0.586
+No,Women,Ball in/out,7.90,0.552,0.513,0.589
+No,Women,Ball in/out,7.93,0.557,0.518,0.593
+No,Women,Ball in/out,7.97,0.564,0.526,0.601
+No,Women,Ball in/out,8.03,0.573,0.535,0.610
+No,Women,Ball in/out,8.07,0.578,0.539,0.614
+No,Women,Ball in/out,8.10,0.581,0.543,0.618
+No,Women,Ball in/out,8.17,0.583,0.544,0.619
+No,Women,Ball in/out,8.20,0.584,0.546,0.621
+No,Women,Ball in/out,8.23,0.586,0.547,0.622
+No,Women,Ball in/out,8.27,0.589,0.550,0.625
+No,Women,Ball in/out,8.43,0.595,0.556,0.631
+No,Women,Ball in/out,8.47,0.598,0.560,0.634
+No,Women,Ball in/out,8.50,0.599,0.561,0.636
+No,Women,Ball in/out,8.53,0.606,0.567,0.642
+No,Women,Ball in/out,8.63,0.612,0.574,0.648
+No,Women,Ball in/out,8.70,0.618,0.580,0.654
+No,Women,Ball in/out,8.73,0.619,0.581,0.655
+No,Women,Ball in/out,8.77,0.621,0.583,0.657
+No,Women,Ball in/out,8.80,0.623,0.584,0.658
+No,Women,Ball in/out,8.83,0.626,0.588,0.661
+No,Women,Ball in/out,8.90,0.627,0.589,0.663
+No,Women,Ball in/out,8.93,0.629,0.591,0.664
+No,Women,Ball in/out,9.17,0.632,0.594,0.667
+No,Women,Ball in/out,9.23,0.633,0.595,0.669
+No,Women,Ball in/out,9.27,0.637,0.599,0.672
+No,Women,Ball in/out,9.30,0.638,0.600,0.673
+No,Women,Ball in/out,9.37,0.640,0.602,0.675
+No,Women,Ball in/out,9.43,0.646,0.608,0.681
+No,Women,Ball in/out,9.50,0.647,0.610,0.683
+No,Women,Ball in/out,9.57,0.652,0.614,0.687
+No,Women,Ball in/out,9.67,0.655,0.618,0.690
+No,Women,Ball in/out,9.73,0.657,0.619,0.692
+No,Women,Ball in/out,9.77,0.658,0.621,0.693
+No,Women,Ball in/out,9.83,0.663,0.625,0.698
+No,Women,Ball in/out,9.87,0.665,0.627,0.699
+No,Women,Ball in/out,9.90,0.668,0.630,0.702
+No,Women,Ball in/out,10.03,0.669,0.632,0.704
+No,Women,Ball in/out,10.07,0.671,0.633,0.705
+No,Women,Ball in/out,10.20,0.675,0.638,0.710
+No,Women,Ball in/out,10.23,0.677,0.640,0.711
+No,Women,Ball in/out,10.27,0.679,0.641,0.713
+No,Women,Ball in/out,10.33,0.680,0.643,0.714
+No,Women,Ball in/out,10.37,0.682,0.645,0.716
+No,Women,Ball in/out,10.47,0.686,0.649,0.720
+No,Women,Ball in/out,10.57,0.688,0.651,0.722
+No,Women,Ball in/out,10.63,0.690,0.653,0.723
+No,Women,Ball in/out,10.67,0.691,0.654,0.725
+No,Women,Ball in/out,10.83,0.694,0.657,0.728
+No,Women,Ball in/out,10.93,0.696,0.659,0.729
+No,Women,Ball in/out,10.97,0.697,0.661,0.731
+No,Women,Ball in/out,11.07,0.699,0.662,0.732
+No,Women,Ball in/out,11.10,0.701,0.664,0.734
+No,Women,Ball in/out,11.20,0.705,0.669,0.739
+No,Women,Ball in/out,11.23,0.707,0.670,0.740
+No,Women,Ball in/out,11.27,0.708,0.672,0.742
+No,Women,Ball in/out,11.47,0.711,0.675,0.745
+No,Women,Ball in/out,11.57,0.715,0.678,0.748
+No,Women,Ball in/out,11.60,0.716,0.680,0.749
+No,Women,Ball in/out,11.63,0.718,0.682,0.751
+No,Women,Ball in/out,11.70,0.719,0.683,0.752
+No,Women,Ball in/out,11.73,0.722,0.686,0.755
+No,Women,Ball in/out,11.80,0.724,0.688,0.757
+No,Women,Ball in/out,11.83,0.726,0.690,0.758
+No,Women,Ball in/out,11.87,0.727,0.691,0.760
+No,Women,Ball in/out,11.90,0.733,0.698,0.766
+No,Women,Ball in/out,11.93,0.735,0.699,0.767
+No,Women,Ball in/out,11.97,0.738,0.703,0.770
+No,Women,Ball in/out,12.03,0.740,0.704,0.772
+No,Women,Ball in/out,12.07,0.741,0.706,0.773
+No,Women,Ball in/out,12.10,0.743,0.707,0.775
+No,Women,Ball in/out,12.20,0.744,0.709,0.776
+No,Women,Ball in/out,12.27,0.746,0.711,0.778
+No,Women,Ball in/out,12.43,0.747,0.712,0.779
+No,Women,Ball in/out,12.47,0.749,0.714,0.781
+No,Women,Ball in/out,12.50,0.751,0.716,0.782
+No,Women,Ball in/out,12.53,0.752,0.717,0.784
+No,Women,Ball in/out,12.57,0.755,0.720,0.787
+No,Women,Ball in/out,12.60,0.757,0.722,0.788
+No,Women,Ball in/out,12.63,0.758,0.724,0.789
+No,Women,Ball in/out,12.67,0.760,0.725,0.791
+No,Women,Ball in/out,12.77,0.765,0.730,0.795
+No,Women,Ball in/out,12.80,0.768,0.734,0.798
+No,Women,Ball in/out,12.83,0.770,0.735,0.800
+No,Women,Ball in/out,12.87,0.771,0.737,0.802
+No,Women,Ball in/out,12.97,0.773,0.739,0.803
+No,Women,Ball in/out,13.07,0.774,0.740,0.805
+No,Women,Ball in/out,13.13,0.776,0.742,0.806
+No,Women,Ball in/out,13.20,0.777,0.744,0.808
+No,Women,Ball in/out,13.23,0.779,0.745,0.809
+No,Women,Ball in/out,13.33,0.781,0.747,0.811
+No,Women,Ball in/out,13.37,0.782,0.749,0.812
+No,Women,Ball in/out,13.43,0.785,0.752,0.815
+No,Women,Ball in/out,13.47,0.787,0.753,0.817
+No,Women,Ball in/out,13.57,0.792,0.758,0.821
+No,Women,Ball in/out,13.67,0.793,0.760,0.823
+No,Women,Ball in/out,13.70,0.797,0.763,0.826
+No,Women,Ball in/out,13.90,0.798,0.765,0.827
+No,Women,Ball in/out,13.93,0.800,0.767,0.829
+No,Women,Ball in/out,14.03,0.801,0.769,0.830
+No,Women,Ball in/out,14.10,0.803,0.770,0.832
+No,Women,Ball in/out,14.20,0.805,0.772,0.833
+No,Women,Ball in/out,14.33,0.808,0.775,0.836
+No,Women,Ball in/out,14.37,0.809,0.777,0.838
+No,Women,Ball in/out,14.40,0.811,0.779,0.839
+No,Women,Ball in/out,14.43,0.812,0.780,0.841
+No,Women,Ball in/out,14.63,0.814,0.782,0.842
+No,Women,Ball in/out,14.70,0.816,0.784,0.843
+No,Women,Ball in/out,14.97,0.817,0.785,0.845
+No,Women,Ball in/out,15.07,0.819,0.787,0.846
+No,Women,Ball in/out,15.17,0.820,0.789,0.848
+No,Women,Ball in/out,15.27,0.822,0.790,0.849
+No,Women,Ball in/out,15.37,0.824,0.792,0.851
+No,Women,Ball in/out,15.47,0.825,0.794,0.852
+No,Women,Ball in/out,15.50,0.827,0.795,0.854
+No,Women,Ball in/out,15.57,0.828,0.797,0.855
+No,Women,Ball in/out,15.67,0.830,0.799,0.857
+No,Women,Ball in/out,15.77,0.832,0.800,0.858
+No,Women,Ball in/out,15.80,0.833,0.802,0.860
+No,Women,Ball in/out,15.83,0.835,0.804,0.861
+No,Women,Ball in/out,16.07,0.836,0.805,0.863
+No,Women,Ball in/out,16.20,0.838,0.807,0.864
+No,Women,Ball in/out,16.23,0.840,0.809,0.866
+No,Women,Ball in/out,16.30,0.841,0.811,0.867
+No,Women,Ball in/out,16.43,0.843,0.812,0.869
+No,Women,Ball in/out,16.47,0.844,0.814,0.870
+No,Women,Ball in/out,16.70,0.846,0.816,0.872
+No,Women,Ball in/out,16.83,0.847,0.817,0.873
+No,Women,Ball in/out,16.97,0.849,0.819,0.875
+No,Women,Ball in/out,17.23,0.851,0.821,0.876
+No,Women,Ball in/out,17.43,0.852,0.822,0.877
+No,Women,Ball in/out,17.53,0.854,0.824,0.879
+No,Women,Ball in/out,17.63,0.855,0.826,0.880
+No,Women,Ball in/out,17.70,0.857,0.828,0.882
+No,Women,Ball in/out,17.77,0.859,0.829,0.883
+No,Women,Ball in/out,17.97,0.860,0.831,0.885
+No,Women,Ball in/out,18.17,0.862,0.833,0.886
+No,Women,Ball in/out,18.23,0.863,0.834,0.888
+No,Women,Ball in/out,18.37,0.865,0.836,0.889
+No,Women,Ball in/out,19.17,0.867,0.838,0.891
+No,Women,Ball in/out,19.23,0.870,0.841,0.894
+No,Women,Ball in/out,19.43,0.871,0.843,0.895
+No,Women,Ball in/out,19.53,0.873,0.845,0.897
+No,Women,Ball in/out,19.60,0.876,0.848,0.900
+No,Women,Ball in/out,19.90,0.878,0.850,0.901
+No,Women,Ball in/out,19.97,0.880,0.852,0.902
+No,Women,Ball in/out,20.00,0.881,0.854,0.904
+No,Women,Ball in/out,20.03,0.883,0.855,0.905
+No,Women,Ball in/out,20.10,0.884,0.857,0.907
+No,Women,Ball in/out,20.27,0.886,0.859,0.908
+No,Women,Ball in/out,20.37,0.888,0.861,0.910
+No,Women,Ball in/out,20.60,0.891,0.864,0.913
+No,Women,Ball in/out,20.87,0.893,0.866,0.914
+No,Women,Ball in/out,20.93,0.894,0.868,0.916
+No,Women,Ball in/out,20.97,0.896,0.870,0.917
+No,Women,Ball in/out,21.03,0.899,0.873,0.920
+No,Women,Ball in/out,21.83,0.901,0.875,0.922
+No,Women,Ball in/out,21.93,0.903,0.877,0.923
+No,Women,Ball in/out,22.13,0.906,0.881,0.926
+No,Women,Ball in/out,22.33,0.908,0.883,0.928
+No,Women,Ball in/out,22.37,0.910,0.885,0.929
+No,Women,Ball in/out,22.80,0.913,0.888,0.933
+No,Women,Ball in/out,23.33,0.915,0.890,0.934
+No,Women,Ball in/out,23.67,0.917,0.892,0.936
+No,Women,Ball in/out,23.90,0.918,0.894,0.937
+No,Women,Ball in/out,24.30,0.920,0.896,0.939
+No,Women,Ball in/out,24.80,0.922,0.898,0.940
+No,Women,Ball in/out,25.10,0.924,0.900,0.942
+No,Women,Ball in/out,26.40,0.926,0.902,0.944
+No,Women,Ball in/out,26.97,0.927,0.904,0.945
+No,Women,Ball in/out,29.17,0.929,0.906,0.947
+No,Women,Ball in/out,31.27,0.931,0.908,0.948
+No,Women,Ball in/out,33.00,0.933,0.910,0.950
+No,Women,Ball in/out,36.17,0.935,0.912,0.951
+No,Women,Ball in/out,39.30,0.936,0.914,0.953
+No,Women,Ball in/out,40.90,0.938,0.917,0.955
+No,Women,Ball in/out,42.50,0.940,0.919,0.956
+No,Women,Ball in/out,43.90,0.942,0.921,0.958
+No,Men,Fault,2.36,0.001,0.000,0.006
+No,Men,Fault,2.40,0.002,0.000,0.007
+No,Men,Fault,2.76,0.003,0.001,0.009
+No,Men,Fault,2.84,0.004,0.001,0.010
+No,Men,Fault,2.92,0.005,0.002,0.011
+No,Men,Fault,3.12,0.006,0.003,0.013
+No,Men,Fault,3.20,0.009,0.005,0.017
+No,Men,Fault,3.24,0.010,0.005,0.018
+No,Men,Fault,3.40,0.011,0.006,0.020
+No,Men,Fault,3.50,0.012,0.007,0.021
+No,Men,Fault,3.84,0.014,0.008,0.023
+No,Men,Fault,3.88,0.015,0.009,0.025
+No,Men,Fault,3.96,0.016,0.010,0.026
+No,Men,Fault,3.97,0.017,0.011,0.027
+No,Men,Fault,4.00,0.018,0.011,0.028
+No,Men,Fault,4.04,0.020,0.013,0.031
+No,Men,Fault,4.08,0.022,0.014,0.032
+No,Men,Fault,4.16,0.023,0.015,0.033
+No,Men,Fault,4.40,0.024,0.015,0.035
+No,Men,Fault,4.48,0.025,0.016,0.036
+No,Men,Fault,4.52,0.026,0.017,0.037
+No,Men,Fault,4.68,0.027,0.018,0.038
+No,Men,Fault,4.72,0.028,0.019,0.039
+No,Men,Fault,4.73,0.029,0.020,0.041
+No,Men,Fault,4.92,0.030,0.020,0.042
+No,Men,Fault,5.03,0.031,0.021,0.043
+No,Men,Fault,5.24,0.032,0.022,0.044
+No,Men,Fault,5.40,0.033,0.023,0.046
+No,Men,Fault,5.56,0.034,0.024,0.047
+No,Men,Fault,5.72,0.035,0.025,0.048
+No,Men,Fault,5.88,0.036,0.026,0.049
+No,Men,Fault,6.16,0.037,0.027,0.050
+No,Men,Fault,6.80,0.038,0.027,0.052
+No,Men,Fault,6.88,0.039,0.028,0.053
+No,Men,Fault,8.08,0.040,0.029,0.054
+No,Men,Fault,8.12,0.041,0.030,0.055
+No,Men,Fault,8.20,0.043,0.031,0.057
+No,Men,Fault,8.96,0.044,0.032,0.058
+No,Men,Fault,9.08,0.045,0.033,0.059
+No,Men,Fault,9.24,0.046,0.034,0.060
+No,Men,Fault,10.08,0.047,0.035,0.062
+No,Men,Fault,10.60,0.048,0.036,0.063
+No,Men,Fault,12.96,0.049,0.037,0.064
+No,Men,Fault,13.04,0.050,0.038,0.065
+No,Men,Fault,13.12,0.051,0.039,0.067
+No,Men,Fault,14.04,0.052,0.040,0.068
+No,Men,Fault,14.08,0.054,0.041,0.069
+No,Men,Fault,16.00,0.055,0.042,0.070
+No,Men,Fault,18.56,0.056,0.043,0.072
+No,Men,Fault,18.92,0.057,0.044,0.073
+No,Men,Fault,22.00,0.058,0.045,0.074
+No,Men,Fault,26.16,0.059,0.046,0.076
+No,Men,Fault,27.48,0.061,0.047,0.077
+No,Men,Fault,28.16,0.062,0.048,0.078
+No,Men,Fault,29.12,0.063,0.049,0.080
+No,Women,Fault,2.50,0.001,0.000,0.007
+No,Women,Fault,2.67,0.003,0.001,0.009
+No,Women,Fault,2.87,0.004,0.001,0.011
+No,Women,Fault,2.97,0.005,0.002,0.012
+No,Women,Fault,3.27,0.006,0.002,0.014
+No,Women,Fault,3.47,0.008,0.003,0.016
+No,Women,Fault,3.70,0.009,0.004,0.018
+No,Women,Fault,3.80,0.010,0.005,0.019
+No,Women,Fault,3.90,0.011,0.006,0.021
+No,Women,Fault,5.37,0.013,0.007,0.023
+No,Women,Fault,6.30,0.014,0.007,0.024
+No,Women,Fault,6.67,0.015,0.008,0.026
+No,Women,Fault,6.87,0.017,0.009,0.028
+No,Women,Fault,7.33,0.018,0.010,0.029
+No,Women,Fault,7.43,0.019,0.011,0.031
+No,Women,Fault,7.57,0.021,0.012,0.032
+No,Women,Fault,7.87,0.022,0.013,0.034
+No,Women,Fault,8.60,0.023,0.014,0.036
+No,Women,Fault,8.83,0.025,0.015,0.037
+No,Women,Fault,8.87,0.026,0.016,0.039
+No,Women,Fault,9.60,0.027,0.017,0.041
+No,Women,Fault,10.93,0.029,0.018,0.042
+No,Women,Fault,11.47,0.030,0.020,0.044
+No,Women,Fault,11.70,0.031,0.021,0.045
+No,Women,Fault,12.47,0.033,0.022,0.047
+No,Women,Fault,12.87,0.034,0.023,0.049
+No,Women,Fault,12.97,0.035,0.024,0.050
+No,Women,Fault,13.67,0.037,0.025,0.052
+No,Women,Fault,14.03,0.038,0.026,0.053
+No,Women,Fault,14.93,0.039,0.027,0.055
+No,Women,Fault,15.67,0.041,0.028,0.057
+No,Women,Fault,19.03,0.042,0.029,0.058
+No,Women,Fault,24.70,0.044,0.031,0.060
+No,Women,Fault,27.63,0.045,0.032,0.062
+No,Women,Fault,33.80,0.047,0.033,0.064
+No,Women,Fault,34.53,0.048,0.035,0.066
+No,Women,Fault,34.73,0.050,0.036,0.067
+No,Men,Pooled,0.76,0.001,0.000,0.009
+No,Men,Pooled,0.80,0.005,0.002,0.013
+No,Men,Pooled,0.84,0.006,0.003,0.015
+No,Men,Pooled,0.96,0.007,0.003,0.017
+No,Men,Pooled,1.24,0.009,0.004,0.018
+No,Men,Pooled,1.53,0.010,0.005,0.020
+No,Men,Pooled,1.60,0.011,0.006,0.021
+No,Men,Pooled,1.68,0.012,0.007,0.023
+No,Men,Pooled,1.88,0.014,0.008,0.025
+No,Men,Pooled,1.92,0.015,0.009,0.026
+No,Men,Pooled,2.24,0.016,0.009,0.028
+No,Men,Pooled,2.32,0.017,0.010,0.029
+No,Men,Pooled,2.36,0.019,0.011,0.031
+No,Men,Pooled,2.40,0.022,0.014,0.035
+No,Men,Pooled,2.48,0.024,0.015,0.037
+No,Men,Pooled,2.52,0.025,0.016,0.038
+No,Men,Pooled,2.60,0.026,0.017,0.040
+No,Men,Pooled,2.64,0.027,0.018,0.041
+No,Men,Pooled,2.68,0.029,0.019,0.043
+No,Men,Pooled,2.76,0.030,0.020,0.044
+No,Men,Pooled,2.80,0.034,0.023,0.049
+No,Men,Pooled,2.84,0.036,0.025,0.052
+No,Men,Pooled,2.88,0.039,0.027,0.055
+No,Men,Pooled,2.92,0.040,0.028,0.056
+No,Men,Pooled,2.96,0.046,0.034,0.063
+No,Men,Pooled,2.97,0.047,0.035,0.065
+No,Men,Pooled,3.00,0.050,0.037,0.067
+No,Men,Pooled,3.04,0.054,0.040,0.072
+No,Men,Pooled,3.08,0.059,0.044,0.077
+No,Men,Pooled,3.12,0.064,0.049,0.083
+No,Men,Pooled,3.16,0.069,0.053,0.088
+No,Men,Pooled,3.20,0.084,0.066,0.105
+No,Men,Pooled,3.23,0.085,0.068,0.106
+No,Men,Pooled,3.24,0.092,0.074,0.115
+No,Men,Pooled,3.27,0.094,0.075,0.116
+No,Men,Pooled,3.28,0.100,0.081,0.123
+No,Men,Pooled,3.32,0.106,0.087,0.130
+No,Men,Pooled,3.33,0.107,0.088,0.131
+No,Men,Pooled,3.36,0.116,0.096,0.140
+No,Men,Pooled,3.40,0.120,0.099,0.145
+No,Men,Pooled,3.44,0.127,0.106,0.153
+No,Men,Pooled,3.48,0.137,0.115,0.163
+No,Men,Pooled,3.50,0.140,0.118,0.166
+No,Men,Pooled,3.52,0.141,0.119,0.167
+No,Men,Pooled,3.56,0.147,0.125,0.174
+No,Men,Pooled,3.60,0.154,0.131,0.181
+No,Men,Pooled,3.63,0.155,0.132,0.182
+No,Men,Pooled,3.64,0.165,0.141,0.193
+No,Men,Pooled,3.68,0.173,0.148,0.201
+No,Men,Pooled,3.70,0.174,0.149,0.202
+No,Men,Pooled,3.72,0.178,0.153,0.206
+No,Men,Pooled,3.73,0.180,0.155,0.208
+No,Men,Pooled,3.76,0.194,0.168,0.223
+No,Men,Pooled,3.80,0.204,0.178,0.233
+No,Men,Pooled,3.83,0.206,0.180,0.236
+No,Men,Pooled,3.84,0.220,0.193,0.250
+No,Men,Pooled,3.87,0.221,0.194,0.252
+No,Men,Pooled,3.88,0.231,0.204,0.262
+No,Men,Pooled,3.92,0.244,0.216,0.275
+No,Men,Pooled,3.93,0.245,0.217,0.277
+No,Men,Pooled,3.96,0.261,0.232,0.293
+No,Men,Pooled,3.97,0.263,0.234,0.295
+No,Men,Pooled,4.00,0.282,0.252,0.314
+No,Men,Pooled,4.03,0.283,0.253,0.315
+No,Men,Pooled,4.04,0.297,0.266,0.330
+No,Men,Pooled,4.07,0.298,0.267,0.331
+No,Men,Pooled,4.08,0.305,0.275,0.339
+No,Men,Pooled,4.12,0.318,0.287,0.351
+No,Men,Pooled,4.16,0.333,0.302,0.367
+No,Men,Pooled,4.20,0.348,0.316,0.382
+No,Men,Pooled,4.23,0.349,0.317,0.384
+No,Men,Pooled,4.24,0.358,0.326,0.393
+No,Men,Pooled,4.28,0.368,0.336,0.403
+No,Men,Pooled,4.32,0.382,0.349,0.417
+No,Men,Pooled,4.36,0.394,0.361,0.428
+No,Men,Pooled,4.37,0.395,0.362,0.430
+No,Men,Pooled,4.40,0.406,0.373,0.441
+No,Men,Pooled,4.44,0.409,0.376,0.444
+No,Men,Pooled,4.47,0.411,0.378,0.446
+No,Men,Pooled,4.48,0.424,0.390,0.459
+No,Men,Pooled,4.50,0.425,0.392,0.460
+No,Men,Pooled,4.52,0.435,0.402,0.471
+No,Men,Pooled,4.56,0.446,0.412,0.481
+No,Men,Pooled,4.60,0.456,0.422,0.491
+No,Men,Pooled,4.64,0.462,0.428,0.497
+No,Men,Pooled,4.67,0.463,0.429,0.499
+No,Men,Pooled,4.68,0.471,0.437,0.506
+No,Men,Pooled,4.72,0.480,0.446,0.515
+No,Men,Pooled,4.73,0.481,0.447,0.516
+No,Men,Pooled,4.76,0.490,0.456,0.525
+No,Men,Pooled,4.80,0.498,0.463,0.533
+No,Men,Pooled,4.88,0.503,0.469,0.538
+No,Men,Pooled,4.90,0.504,0.470,0.539
+No,Men,Pooled,4.92,0.509,0.475,0.544
+No,Men,Pooled,4.96,0.517,0.483,0.552
+No,Men,Pooled,5.00,0.523,0.489,0.558
+No,Men,Pooled,5.03,0.524,0.490,0.560
+No,Men,Pooled,5.04,0.533,0.499,0.569
+No,Men,Pooled,5.08,0.540,0.506,0.575
+No,Men,Pooled,5.12,0.544,0.509,0.579
+No,Men,Pooled,5.16,0.545,0.511,0.580
+No,Men,Pooled,5.17,0.546,0.512,0.581
+No,Men,Pooled,5.20,0.549,0.515,0.584
+No,Men,Pooled,5.24,0.553,0.518,0.588
+No,Men,Pooled,5.27,0.554,0.520,0.589
+No,Men,Pooled,5.28,0.557,0.522,0.591
+No,Men,Pooled,5.32,0.563,0.529,0.598
+No,Men,Pooled,5.36,0.564,0.530,0.599
+No,Men,Pooled,5.37,0.566,0.531,0.600
+No,Men,Pooled,5.40,0.571,0.536,0.605
+No,Men,Pooled,5.44,0.576,0.542,0.610
+No,Men,Pooled,5.52,0.580,0.546,0.614
+No,Men,Pooled,5.56,0.582,0.548,0.617
+No,Men,Pooled,5.60,0.584,0.549,0.618
+No,Men,Pooled,5.60,0.586,0.552,0.621
+No,Men,Pooled,5.64,0.589,0.555,0.623
+No,Men,Pooled,5.68,0.591,0.557,0.626
+No,Men,Pooled,5.72,0.594,0.560,0.628
+No,Men,Pooled,5.77,0.595,0.561,0.630
+No,Men,Pooled,5.80,0.598,0.564,0.632
+No,Men,Pooled,5.88,0.602,0.568,0.636
+No,Men,Pooled,5.92,0.604,0.570,0.638
+No,Men,Pooled,6.03,0.606,0.572,0.640
+No,Men,Pooled,6.04,0.607,0.573,0.641
+No,Men,Pooled,6.13,0.608,0.574,0.642
+No,Men,Pooled,6.16,0.611,0.577,0.645
+No,Men,Pooled,6.24,0.612,0.578,0.646
+No,Men,Pooled,6.44,0.613,0.579,0.647
+No,Men,Pooled,6.52,0.615,0.581,0.649
+No,Men,Pooled,6.56,0.616,0.582,0.650
+No,Men,Pooled,6.60,0.617,0.583,0.651
+No,Men,Pooled,6.68,0.620,0.586,0.654
+No,Men,Pooled,6.72,0.622,0.589,0.656
+No,Men,Pooled,6.76,0.624,0.590,0.658
+No,Men,Pooled,6.80,0.626,0.593,0.660
+No,Men,Pooled,6.84,0.629,0.595,0.663
+No,Men,Pooled,6.88,0.631,0.598,0.665
+No,Men,Pooled,6.96,0.633,0.599,0.666
+No,Men,Pooled,7.00,0.634,0.600,0.668
+No,Men,Pooled,7.04,0.635,0.602,0.669
+No,Men,Pooled,7.08,0.643,0.610,0.677
+No,Men,Pooled,7.10,0.644,0.611,0.678
+No,Men,Pooled,7.12,0.647,0.614,0.680
+No,Men,Pooled,7.16,0.648,0.615,0.682
+No,Men,Pooled,7.20,0.652,0.619,0.685
+No,Men,Pooled,7.24,0.654,0.620,0.687
+No,Men,Pooled,7.28,0.655,0.622,0.688
+No,Men,Pooled,7.32,0.659,0.626,0.692
+No,Men,Pooled,7.40,0.660,0.627,0.693
+No,Men,Pooled,7.44,0.664,0.631,0.697
+No,Men,Pooled,7.48,0.668,0.635,0.701
+No,Men,Pooled,7.52,0.669,0.636,0.702
+No,Men,Pooled,7.60,0.672,0.639,0.704
+No,Men,Pooled,7.68,0.674,0.641,0.707
+No,Men,Pooled,7.72,0.677,0.644,0.710
+No,Men,Pooled,7.76,0.678,0.645,0.711
+No,Men,Pooled,7.80,0.684,0.651,0.716
+No,Men,Pooled,7.83,0.685,0.652,0.717
+No,Men,Pooled,7.84,0.687,0.655,0.720
+No,Men,Pooled,7.88,0.693,0.660,0.725
+No,Men,Pooled,7.92,0.695,0.663,0.727
+No,Men,Pooled,7.96,0.699,0.667,0.731
+No,Men,Pooled,8.00,0.702,0.670,0.734
+No,Men,Pooled,8.04,0.704,0.672,0.736
+No,Men,Pooled,8.07,0.706,0.674,0.737
+No,Men,Pooled,8.08,0.708,0.676,0.740
+No,Men,Pooled,8.12,0.714,0.682,0.745
+No,Men,Pooled,8.16,0.715,0.683,0.746
+No,Men,Pooled,8.20,0.719,0.687,0.750
+No,Men,Pooled,8.24,0.720,0.688,0.751
+No,Men,Pooled,8.28,0.721,0.690,0.753
+No,Men,Pooled,8.32,0.725,0.694,0.756
+No,Men,Pooled,8.36,0.728,0.696,0.759
+No,Men,Pooled,8.40,0.729,0.698,0.760
+No,Men,Pooled,8.44,0.732,0.700,0.763
+No,Men,Pooled,8.48,0.736,0.705,0.766
+No,Men,Pooled,8.52,0.739,0.707,0.769
+No,Men,Pooled,8.56,0.740,0.709,0.770
+No,Men,Pooled,8.60,0.743,0.711,0.773
+No,Men,Pooled,8.63,0.744,0.713,0.774
+No,Men,Pooled,8.68,0.745,0.714,0.775
+No,Men,Pooled,8.76,0.748,0.717,0.778
+No,Men,Pooled,8.80,0.752,0.721,0.782
+No,Men,Pooled,8.84,0.753,0.722,0.783
+No,Men,Pooled,8.88,0.754,0.724,0.784
+No,Men,Pooled,8.92,0.756,0.725,0.785
+No,Men,Pooled,8.93,0.757,0.726,0.787
+No,Men,Pooled,8.96,0.758,0.728,0.788
+No,Men,Pooled,9.00,0.761,0.730,0.790
+No,Men,Pooled,9.04,0.762,0.732,0.792
+No,Men,Pooled,9.07,0.764,0.733,0.793
+No,Men,Pooled,9.08,0.766,0.736,0.795
+No,Men,Pooled,9.12,0.768,0.737,0.797
+No,Men,Pooled,9.16,0.769,0.739,0.798
+No,Men,Pooled,9.24,0.774,0.744,0.803
+No,Men,Pooled,9.40,0.778,0.748,0.807
+No,Men,Pooled,9.44,0.780,0.750,0.808
+No,Men,Pooled,9.48,0.782,0.753,0.811
+No,Men,Pooled,9.56,0.784,0.754,0.812
+No,Men,Pooled,9.72,0.785,0.755,0.813
+No,Men,Pooled,9.76,0.786,0.757,0.814
+No,Men,Pooled,9.80,0.788,0.758,0.816
+No,Men,Pooled,9.84,0.789,0.760,0.817
+No,Men,Pooled,9.88,0.790,0.761,0.818
+No,Men,Pooled,9.92,0.792,0.762,0.820
+No,Men,Pooled,9.96,0.793,0.764,0.821
+No,Men,Pooled,10.00,0.794,0.765,0.822
+No,Men,Pooled,10.08,0.797,0.768,0.825
+No,Men,Pooled,10.12,0.798,0.769,0.826
+No,Men,Pooled,10.13,0.800,0.771,0.827
+No,Men,Pooled,10.16,0.801,0.772,0.828
+No,Men,Pooled,10.24,0.802,0.773,0.830
+No,Men,Pooled,10.28,0.804,0.775,0.831
+No,Men,Pooled,10.36,0.805,0.776,0.832
+No,Men,Pooled,10.37,0.806,0.778,0.833
+No,Men,Pooled,10.44,0.809,0.780,0.836
+No,Men,Pooled,10.60,0.812,0.783,0.838
+No,Men,Pooled,10.76,0.813,0.785,0.840
+No,Men,Pooled,10.80,0.816,0.787,0.842
+No,Men,Pooled,10.84,0.817,0.789,0.843
+No,Men,Pooled,10.88,0.818,0.790,0.845
+No,Men,Pooled,10.96,0.822,0.795,0.849
+No,Men,Pooled,11.03,0.824,0.796,0.850
+No,Men,Pooled,11.08,0.825,0.797,0.851
+No,Men,Pooled,11.16,0.829,0.802,0.855
+No,Men,Pooled,11.20,0.831,0.803,0.856
+No,Men,Pooled,11.28,0.832,0.805,0.858
+No,Men,Pooled,11.32,0.835,0.807,0.860
+No,Men,Pooled,11.40,0.836,0.809,0.861
+No,Men,Pooled,11.44,0.837,0.810,0.863
+No,Men,Pooled,11.52,0.839,0.812,0.864
+No,Men,Pooled,11.56,0.840,0.813,0.865
+No,Men,Pooled,11.60,0.842,0.815,0.866
+No,Men,Pooled,11.67,0.843,0.816,0.868
+No,Men,Pooled,11.68,0.847,0.820,0.872
+No,Men,Pooled,11.72,0.850,0.823,0.874
+No,Men,Pooled,11.76,0.851,0.825,0.875
+No,Men,Pooled,11.88,0.852,0.826,0.877
+No,Men,Pooled,12.00,0.855,0.829,0.879
+No,Men,Pooled,12.04,0.857,0.831,0.880
+No,Men,Pooled,12.12,0.859,0.834,0.883
+No,Men,Pooled,12.13,0.861,0.835,0.884
+No,Men,Pooled,12.16,0.862,0.836,0.886
+No,Men,Pooled,12.20,0.865,0.839,0.888
+No,Men,Pooled,12.28,0.866,0.841,0.889
+No,Men,Pooled,12.32,0.869,0.844,0.892
+No,Men,Pooled,12.33,0.870,0.845,0.893
+No,Men,Pooled,12.36,0.872,0.847,0.894
+No,Men,Pooled,12.44,0.873,0.848,0.896
+No,Men,Pooled,12.48,0.874,0.850,0.897
+No,Men,Pooled,12.52,0.876,0.851,0.898
+No,Men,Pooled,12.60,0.877,0.853,0.899
+No,Men,Pooled,12.68,0.880,0.855,0.902
+No,Men,Pooled,12.73,0.881,0.857,0.903
+No,Men,Pooled,12.76,0.883,0.858,0.904
+No,Men,Pooled,12.80,0.884,0.860,0.906
+No,Men,Pooled,12.88,0.885,0.861,0.907
+No,Men,Pooled,12.92,0.887,0.863,0.908
+No,Men,Pooled,12.96,0.888,0.864,0.909
+No,Men,Pooled,13.04,0.889,0.866,0.911
+No,Men,Pooled,13.08,0.891,0.867,0.912
+No,Men,Pooled,13.12,0.892,0.869,0.913
+No,Men,Pooled,13.32,0.894,0.870,0.914
+No,Men,Pooled,13.36,0.895,0.872,0.916
+No,Men,Pooled,13.40,0.896,0.873,0.917
+No,Men,Pooled,13.56,0.898,0.875,0.918
+No,Men,Pooled,13.64,0.899,0.876,0.919
+No,Men,Pooled,13.68,0.900,0.878,0.921
+No,Men,Pooled,13.88,0.903,0.881,0.923
+No,Men,Pooled,13.92,0.905,0.882,0.924
+No,Men,Pooled,14.00,0.906,0.884,0.926
+No,Men,Pooled,14.04,0.907,0.885,0.927
+No,Men,Pooled,14.08,0.909,0.887,0.928
+No,Men,Pooled,14.16,0.912,0.890,0.931
+No,Men,Pooled,14.20,0.913,0.891,0.932
+No,Men,Pooled,14.28,0.914,0.893,0.933
+No,Men,Pooled,14.52,0.916,0.894,0.934
+No,Men,Pooled,14.56,0.917,0.896,0.935
+No,Men,Pooled,14.68,0.918,0.897,0.937
+No,Men,Pooled,14.72,0.920,0.899,0.938
+No,Men,Pooled,14.76,0.921,0.900,0.939
+No,Men,Pooled,14.80,0.923,0.902,0.940
+No,Men,Pooled,14.83,0.924,0.903,0.942
+No,Men,Pooled,15.08,0.925,0.905,0.943
+No,Men,Pooled,15.48,0.927,0.906,0.944
+No,Men,Pooled,15.72,0.928,0.908,0.945
+No,Men,Pooled,15.76,0.930,0.910,0.946
+No,Men,Pooled,15.88,0.932,0.913,0.949
+No,Men,Pooled,15.96,0.934,0.914,0.950
+No,Men,Pooled,16.00,0.936,0.917,0.952
+No,Men,Pooled,16.04,0.938,0.919,0.954
+No,Men,Pooled,16.12,0.939,0.920,0.955
+No,Men,Pooled,16.24,0.941,0.922,0.956
+No,Men,Pooled,16.36,0.942,0.923,0.957
+No,Men,Pooled,16.52,0.943,0.925,0.958
+No,Men,Pooled,16.60,0.945,0.927,0.960
+No,Men,Pooled,16.64,0.946,0.928,0.961
+No,Men,Pooled,16.72,0.947,0.930,0.962
+No,Men,Pooled,16.76,0.950,0.933,0.964
+No,Men,Pooled,16.88,0.952,0.934,0.966
+No,Men,Pooled,16.92,0.953,0.936,0.967
+No,Men,Pooled,17.04,0.955,0.938,0.968
+No,Men,Pooled,17.60,0.956,0.939,0.969
+No,Men,Pooled,17.76,0.957,0.941,0.970
+No,Men,Pooled,18.36,0.959,0.943,0.972
+No,Men,Pooled,18.50,0.960,0.944,0.973
+No,Men,Pooled,18.56,0.962,0.946,0.974
+No,Men,Pooled,18.80,0.963,0.948,0.975
+No,Men,Pooled,18.92,0.964,0.949,0.976
+No,Men,Pooled,18.97,0.966,0.951,0.977
+No,Men,Pooled,20.28,0.967,0.952,0.979
+No,Men,Pooled,20.40,0.969,0.954,0.980
+No,Men,Pooled,20.60,0.970,0.956,0.981
+No,Men,Pooled,20.64,0.972,0.958,0.982
+No,Men,Pooled,20.80,0.973,0.959,0.983
+No,Men,Pooled,20.88,0.974,0.961,0.984
+No,Men,Pooled,20.92,0.976,0.963,0.985
+No,Men,Pooled,21.04,0.977,0.964,0.986
+No,Men,Pooled,21.24,0.979,0.966,0.987
+No,Men,Pooled,21.28,0.980,0.968,0.989
+No,Men,Pooled,21.32,0.982,0.970,0.990
+No,Men,Pooled,21.96,0.983,0.971,0.991
+No,Men,Pooled,22.00,0.984,0.973,0.992
+No,Men,Pooled,23.60,0.986,0.975,0.993
+No,Men,Pooled,23.80,0.987,0.977,0.994
+No,Men,Pooled,23.84,0.989,0.979,0.995
+No,Men,Pooled,24.32,0.990,0.980,0.996
+No,Men,Pooled,26.16,0.992,0.982,0.996
+No,Men,Pooled,26.52,0.993,0.984,0.997
+No,Men,Pooled,27.48,0.994,0.986,0.998
+No,Men,Pooled,28.16,0.996,0.988,0.999
+No,Men,Pooled,28.30,0.997,0.990,0.999
+No,Men,Pooled,29.12,1.000,,
+No,Women,Pooled,1.03,0.002,0.000,0.010
+No,Women,Pooled,1.53,0.003,0.001,0.012
+No,Women,Pooled,1.63,0.004,0.001,0.014
+No,Women,Pooled,1.80,0.007,0.003,0.018
+No,Women,Pooled,2.17,0.009,0.004,0.020
+No,Women,Pooled,2.20,0.010,0.005,0.022
+No,Women,Pooled,2.27,0.012,0.006,0.024
+No,Women,Pooled,2.30,0.013,0.007,0.025
+No,Women,Pooled,2.40,0.018,0.010,0.031
+No,Women,Pooled,2.50,0.021,0.012,0.035
+No,Women,Pooled,2.57,0.022,0.013,0.037
+No,Women,Pooled,2.63,0.024,0.015,0.038
+No,Women,Pooled,2.67,0.027,0.017,0.042
+No,Women,Pooled,2.70,0.028,0.018,0.044
+No,Women,Pooled,2.77,0.030,0.019,0.045
+No,Women,Pooled,2.80,0.031,0.020,0.047
+No,Women,Pooled,2.83,0.033,0.022,0.049
+No,Women,Pooled,2.87,0.035,0.024,0.052
+No,Women,Pooled,2.90,0.037,0.025,0.054
+No,Women,Pooled,2.97,0.038,0.026,0.056
+No,Women,Pooled,3.10,0.041,0.029,0.059
+No,Women,Pooled,3.17,0.043,0.030,0.061
+No,Women,Pooled,3.20,0.046,0.032,0.065
+No,Women,Pooled,3.23,0.050,0.036,0.070
+No,Women,Pooled,3.27,0.052,0.037,0.071
+No,Women,Pooled,3.33,0.053,0.039,0.073
+No,Women,Pooled,3.37,0.055,0.040,0.075
+No,Women,Pooled,3.40,0.058,0.042,0.078
+No,Women,Pooled,3.47,0.065,0.049,0.086
+No,Women,Pooled,3.50,0.071,0.054,0.093
+No,Women,Pooled,3.53,0.075,0.058,0.098
+No,Women,Pooled,3.57,0.080,0.062,0.103
+No,Women,Pooled,3.60,0.081,0.063,0.105
+No,Women,Pooled,3.63,0.087,0.068,0.111
+No,Women,Pooled,3.67,0.090,0.071,0.114
+No,Women,Pooled,3.70,0.096,0.076,0.121
+No,Women,Pooled,3.73,0.099,0.079,0.124
+No,Women,Pooled,3.77,0.105,0.084,0.131
+No,Women,Pooled,3.80,0.110,0.088,0.136
+No,Women,Pooled,3.83,0.115,0.094,0.142
+No,Women,Pooled,3.87,0.123,0.100,0.150
+No,Women,Pooled,3.90,0.129,0.106,0.156
+No,Women,Pooled,3.93,0.135,0.111,0.163
+No,Women,Pooled,3.97,0.144,0.119,0.172
+No,Women,Pooled,4.00,0.150,0.125,0.179
+No,Women,Pooled,4.03,0.158,0.133,0.188
+No,Women,Pooled,4.07,0.163,0.137,0.193
+No,Women,Pooled,4.10,0.173,0.147,0.204
+No,Women,Pooled,4.13,0.185,0.158,0.216
+No,Women,Pooled,4.17,0.190,0.162,0.221
+No,Women,Pooled,4.20,0.194,0.166,0.226
+No,Women,Pooled,4.23,0.201,0.173,0.234
+No,Women,Pooled,4.27,0.216,0.187,0.249
+No,Women,Pooled,4.30,0.227,0.197,0.260
+No,Women,Pooled,4.33,0.243,0.212,0.277
+No,Women,Pooled,4.37,0.250,0.219,0.285
+No,Women,Pooled,4.40,0.261,0.229,0.296
+No,Women,Pooled,4.43,0.265,0.234,0.300
+No,Women,Pooled,4.47,0.277,0.245,0.313
+No,Women,Pooled,4.50,0.286,0.254,0.322
+No,Women,Pooled,4.53,0.296,0.264,0.332
+No,Women,Pooled,4.57,0.302,0.269,0.339
+No,Women,Pooled,4.60,0.311,0.278,0.348
+No,Women,Pooled,4.63,0.322,0.288,0.359
+No,Women,Pooled,4.67,0.326,0.292,0.363
+No,Women,Pooled,4.70,0.334,0.300,0.371
+No,Women,Pooled,4.73,0.344,0.310,0.382
+No,Women,Pooled,4.77,0.350,0.316,0.388
+No,Women,Pooled,4.80,0.359,0.324,0.397
+No,Women,Pooled,4.83,0.370,0.335,0.408
+No,Women,Pooled,4.87,0.375,0.339,0.412
+No,Women,Pooled,4.90,0.381,0.345,0.418
+No,Women,Pooled,4.93,0.385,0.349,0.423
+No,Women,Pooled,4.97,0.390,0.354,0.428
+No,Women,Pooled,5.00,0.396,0.360,0.434
+No,Women,Pooled,5.03,0.405,0.369,0.443
+No,Women,Pooled,5.07,0.412,0.376,0.451
+No,Women,Pooled,5.10,0.420,0.384,0.458
+No,Women,Pooled,5.13,0.421,0.385,0.460
+No,Women,Pooled,5.17,0.424,0.388,0.463
+No,Women,Pooled,5.20,0.430,0.394,0.469
+No,Women,Pooled,5.23,0.433,0.397,0.472
+No,Women,Pooled,5.27,0.436,0.400,0.475
+No,Women,Pooled,5.30,0.441,0.404,0.479
+No,Women,Pooled,5.33,0.446,0.409,0.484
+No,Women,Pooled,5.37,0.449,0.412,0.487
+No,Women,Pooled,5.40,0.453,0.416,0.492
+No,Women,Pooled,5.43,0.455,0.418,0.493
+No,Women,Pooled,5.47,0.458,0.421,0.496
+No,Women,Pooled,5.50,0.461,0.424,0.499
+No,Women,Pooled,5.53,0.467,0.430,0.505
+No,Women,Pooled,5.57,0.470,0.433,0.508
+No,Women,Pooled,5.63,0.473,0.436,0.511
+No,Women,Pooled,5.67,0.474,0.437,0.513
+No,Women,Pooled,5.70,0.476,0.439,0.514
+No,Women,Pooled,5.73,0.477,0.440,0.516
+No,Women,Pooled,5.83,0.479,0.442,0.517
+No,Women,Pooled,5.90,0.483,0.446,0.522
+No,Women,Pooled,5.93,0.485,0.448,0.523
+No,Women,Pooled,5.97,0.486,0.449,0.525
+No,Women,Pooled,6.00,0.488,0.451,0.526
+No,Women,Pooled,6.10,0.491,0.454,0.529
+No,Women,Pooled,6.13,0.494,0.457,0.532
+No,Women,Pooled,6.17,0.495,0.458,0.534
+No,Women,Pooled,6.20,0.497,0.460,0.535
+No,Women,Pooled,6.27,0.498,0.461,0.537
+No,Women,Pooled,6.30,0.500,0.463,0.538
+No,Women,Pooled,6.33,0.501,0.464,0.540
+No,Women,Pooled,6.40,0.503,0.466,0.542
+No,Women,Pooled,6.43,0.505,0.467,0.543
+No,Women,Pooled,6.47,0.508,0.470,0.546
+No,Women,Pooled,6.50,0.509,0.472,0.548
+No,Women,Pooled,6.53,0.512,0.475,0.551
+No,Women,Pooled,6.67,0.514,0.476,0.552
+No,Women,Pooled,6.73,0.515,0.478,0.554
+No,Women,Pooled,6.77,0.518,0.481,0.557
+No,Women,Pooled,6.80,0.521,0.484,0.560
+No,Women,Pooled,6.87,0.524,0.487,0.563
+No,Women,Pooled,6.93,0.526,0.488,0.564
+No,Women,Pooled,6.97,0.527,0.490,0.566
+No,Women,Pooled,7.00,0.529,0.492,0.567
+No,Women,Pooled,7.07,0.530,0.493,0.569
+No,Women,Pooled,7.10,0.532,0.495,0.570
+No,Women,Pooled,7.13,0.536,0.499,0.575
+No,Women,Pooled,7.17,0.539,0.502,0.578
+No,Women,Pooled,7.20,0.541,0.504,0.579
+No,Women,Pooled,7.27,0.544,0.507,0.582
+No,Women,Pooled,7.30,0.546,0.508,0.584
+No,Women,Pooled,7.33,0.547,0.510,0.585
+No,Women,Pooled,7.37,0.549,0.511,0.587
+No,Women,Pooled,7.40,0.550,0.513,0.588
+No,Women,Pooled,7.43,0.553,0.516,0.591
+No,Women,Pooled,7.47,0.555,0.517,0.593
+No,Women,Pooled,7.53,0.556,0.519,0.594
+No,Women,Pooled,7.57,0.558,0.520,0.596
+No,Women,Pooled,7.63,0.561,0.523,0.599
+No,Women,Pooled,7.67,0.562,0.525,0.600
+No,Women,Pooled,7.70,0.564,0.527,0.602
+No,Women,Pooled,7.73,0.567,0.530,0.605
+No,Women,Pooled,7.77,0.568,0.531,0.606
+No,Women,Pooled,7.80,0.571,0.534,0.609
+No,Women,Pooled,7.83,0.573,0.536,0.611
+No,Women,Pooled,7.87,0.575,0.537,0.612
+No,Women,Pooled,7.90,0.578,0.540,0.615
+No,Women,Pooled,7.93,0.582,0.545,0.620
+No,Women,Pooled,7.97,0.590,0.553,0.627
+No,Women,Pooled,8.00,0.596,0.559,0.633
+No,Women,Pooled,8.03,0.599,0.562,0.636
+No,Women,Pooled,8.07,0.604,0.566,0.641
+No,Women,Pooled,8.10,0.607,0.570,0.644
+No,Women,Pooled,8.17,0.608,0.571,0.645
+No,Women,Pooled,8.20,0.610,0.573,0.647
+No,Women,Pooled,8.23,0.611,0.574,0.648
+No,Women,Pooled,8.27,0.614,0.577,0.651
+No,Women,Pooled,8.40,0.617,0.580,0.654
+No,Women,Pooled,8.43,0.620,0.584,0.657
+No,Women,Pooled,8.47,0.623,0.587,0.660
+No,Women,Pooled,8.50,0.625,0.588,0.662
+No,Women,Pooled,8.53,0.631,0.594,0.668
+No,Women,Pooled,8.60,0.636,0.599,0.672
+No,Women,Pooled,8.63,0.639,0.602,0.675
+No,Women,Pooled,8.70,0.645,0.609,0.681
+No,Women,Pooled,8.73,0.647,0.610,0.683
+No,Women,Pooled,8.77,0.648,0.612,0.684
+No,Women,Pooled,8.80,0.650,0.613,0.686
+No,Women,Pooled,8.83,0.654,0.618,0.690
+No,Women,Pooled,8.87,0.656,0.620,0.692
+No,Women,Pooled,8.90,0.657,0.621,0.693
+No,Women,Pooled,8.93,0.659,0.623,0.695
+No,Women,Pooled,9.17,0.662,0.626,0.698
+No,Women,Pooled,9.23,0.664,0.627,0.699
+No,Women,Pooled,9.27,0.667,0.631,0.702
+No,Women,Pooled,9.30,0.668,0.632,0.704
+No,Women,Pooled,9.37,0.670,0.634,0.705
+No,Women,Pooled,9.40,0.671,0.635,0.707
+No,Women,Pooled,9.43,0.676,0.640,0.711
+No,Women,Pooled,9.50,0.678,0.642,0.713
+No,Women,Pooled,9.57,0.682,0.647,0.717
+No,Women,Pooled,9.60,0.684,0.648,0.719
+No,Women,Pooled,9.67,0.687,0.651,0.722
+No,Women,Pooled,9.73,0.688,0.653,0.723
+No,Women,Pooled,9.77,0.690,0.654,0.725
+No,Women,Pooled,9.80,0.692,0.656,0.727
+No,Women,Pooled,9.83,0.695,0.659,0.730
+No,Women,Pooled,9.87,0.696,0.661,0.731
+No,Women,Pooled,9.90,0.699,0.664,0.734
+No,Women,Pooled,10.03,0.701,0.666,0.736
+No,Women,Pooled,10.07,0.702,0.667,0.737
+No,Women,Pooled,10.13,0.706,0.670,0.740
+No,Women,Pooled,10.20,0.707,0.672,0.742
+No,Women,Pooled,10.23,0.709,0.674,0.743
+No,Women,Pooled,10.27,0.710,0.675,0.745
+No,Women,Pooled,10.33,0.712,0.677,0.746
+No,Women,Pooled,10.37,0.713,0.678,0.748
+No,Women,Pooled,10.47,0.718,0.683,0.752
+No,Women,Pooled,10.57,0.720,0.685,0.754
+No,Women,Pooled,10.63,0.721,0.687,0.755
+No,Women,Pooled,10.67,0.723,0.688,0.757
+No,Women,Pooled,10.83,0.726,0.691,0.760
+No,Women,Pooled,10.93,0.729,0.695,0.763
+No,Women,Pooled,10.97,0.731,0.696,0.764
+No,Women,Pooled,11.07,0.732,0.698,0.766
+No,Women,Pooled,11.10,0.734,0.699,0.767
+No,Women,Pooled,11.20,0.738,0.704,0.772
+No,Women,Pooled,11.23,0.740,0.706,0.773
+No,Women,Pooled,11.27,0.742,0.708,0.775
+No,Women,Pooled,11.47,0.746,0.712,0.779
+No,Women,Pooled,11.57,0.749,0.716,0.782
+No,Women,Pooled,11.60,0.751,0.717,0.784
+No,Women,Pooled,11.63,0.753,0.719,0.785
+No,Women,Pooled,11.70,0.756,0.722,0.788
+No,Women,Pooled,11.73,0.759,0.725,0.791
+No,Women,Pooled,11.80,0.760,0.727,0.792
+No,Women,Pooled,11.83,0.762,0.729,0.794
+No,Women,Pooled,11.87,0.764,0.730,0.795
+No,Women,Pooled,11.90,0.770,0.737,0.801
+No,Women,Pooled,11.93,0.771,0.738,0.803
+No,Women,Pooled,11.97,0.775,0.742,0.806
+No,Women,Pooled,12.03,0.776,0.743,0.807
+No,Women,Pooled,12.07,0.778,0.745,0.809
+No,Women,Pooled,12.10,0.779,0.747,0.810
+No,Women,Pooled,12.20,0.781,0.748,0.812
+No,Women,Pooled,12.27,0.782,0.750,0.813
+No,Women,Pooled,12.43,0.784,0.752,0.815
+No,Women,Pooled,12.47,0.787,0.755,0.818
+No,Women,Pooled,12.50,0.789,0.756,0.819
+No,Women,Pooled,12.53,0.790,0.758,0.821
+No,Women,Pooled,12.57,0.793,0.761,0.824
+No,Women,Pooled,12.60,0.795,0.763,0.825
+No,Women,Pooled,12.63,0.796,0.765,0.826
+No,Women,Pooled,12.67,0.798,0.766,0.828
+No,Women,Pooled,12.73,0.801,0.770,0.831
+No,Women,Pooled,12.77,0.803,0.771,0.832
+No,Women,Pooled,12.80,0.806,0.775,0.835
+No,Women,Pooled,12.83,0.808,0.776,0.837
+No,Women,Pooled,12.87,0.811,0.780,0.840
+No,Women,Pooled,12.97,0.814,0.783,0.843
+No,Women,Pooled,13.07,0.815,0.785,0.844
+No,Women,Pooled,13.13,0.817,0.786,0.846
+No,Women,Pooled,13.20,0.819,0.788,0.847
+No,Women,Pooled,13.23,0.820,0.790,0.849
+No,Women,Pooled,13.33,0.822,0.791,0.850
+No,Women,Pooled,13.37,0.823,0.793,0.852
+No,Women,Pooled,13.43,0.827,0.796,0.855
+No,Women,Pooled,13.47,0.828,0.798,0.856
+No,Women,Pooled,13.57,0.833,0.803,0.861
+No,Women,Pooled,13.67,0.836,0.807,0.864
+No,Women,Pooled,13.70,0.839,0.810,0.867
+No,Women,Pooled,13.90,0.841,0.812,0.868
+No,Women,Pooled,13.93,0.843,0.813,0.869
+No,Women,Pooled,14.03,0.846,0.817,0.872
+No,Women,Pooled,14.10,0.847,0.818,0.874
+No,Women,Pooled,14.20,0.849,0.820,0.875
+No,Women,Pooled,14.33,0.852,0.823,0.878
+No,Women,Pooled,14.37,0.854,0.825,0.880
+No,Women,Pooled,14.40,0.855,0.827,0.881
+No,Women,Pooled,14.43,0.857,0.829,0.883
+No,Women,Pooled,14.63,0.858,0.830,0.884
+No,Women,Pooled,14.70,0.860,0.832,0.886
+No,Women,Pooled,14.93,0.862,0.834,0.887
+No,Women,Pooled,14.97,0.863,0.835,0.888
+No,Women,Pooled,15.07,0.865,0.837,0.890
+No,Women,Pooled,15.17,0.866,0.839,0.891
+No,Women,Pooled,15.27,0.868,0.841,0.893
+No,Women,Pooled,15.37,0.870,0.842,0.894
+No,Women,Pooled,15.47,0.871,0.844,0.896
+No,Women,Pooled,15.50,0.873,0.846,0.897
+No,Women,Pooled,15.57,0.874,0.847,0.899
+No,Women,Pooled,15.67,0.878,0.851,0.902
+No,Women,Pooled,15.77,0.879,0.853,0.903
+No,Women,Pooled,15.80,0.881,0.854,0.904
+No,Women,Pooled,15.83,0.882,0.856,0.906
+No,Women,Pooled,16.07,0.884,0.858,0.907
+No,Women,Pooled,16.20,0.885,0.859,0.909
+No,Women,Pooled,16.23,0.887,0.861,0.910
+No,Women,Pooled,16.30,0.889,0.863,0.912
+No,Women,Pooled,16.43,0.890,0.865,0.913
+No,Women,Pooled,16.47,0.892,0.866,0.914
+No,Women,Pooled,16.70,0.893,0.868,0.916
+No,Women,Pooled,16.83,0.895,0.870,0.917
+No,Women,Pooled,16.97,0.897,0.872,0.919
+No,Women,Pooled,17.23,0.898,0.873,0.920
+No,Women,Pooled,17.43,0.900,0.875,0.922
+No,Women,Pooled,17.53,0.901,0.877,0.923
+No,Women,Pooled,17.63,0.903,0.878,0.924
+No,Women,Pooled,17.70,0.905,0.880,0.926
+No,Women,Pooled,17.77,0.906,0.882,0.927
+No,Women,Pooled,17.97,0.908,0.884,0.929
+No,Women,Pooled,18.17,0.909,0.885,0.930
+No,Women,Pooled,18.23,0.911,0.887,0.931
+No,Women,Pooled,18.37,0.913,0.889,0.933
+No,Women,Pooled,19.03,0.914,0.891,0.934
+No,Women,Pooled,19.17,0.916,0.893,0.936
+No,Women,Pooled,19.23,0.919,0.896,0.939
+No,Women,Pooled,19.43,0.921,0.898,0.940
+No,Women,Pooled,19.53,0.922,0.900,0.941
+No,Women,Pooled,19.60,0.925,0.903,0.944
+No,Women,Pooled,19.90,0.927,0.905,0.946
+No,Women,Pooled,19.97,0.929,0.907,0.947
+No,Women,Pooled,20.00,0.930,0.909,0.948
+No,Women,Pooled,20.03,0.932,0.911,0.950
+No,Women,Pooled,20.10,0.934,0.912,0.951
+No,Women,Pooled,20.27,0.935,0.914,0.953
+No,Women,Pooled,20.37,0.937,0.916,0.954
+No,Women,Pooled,20.60,0.940,0.920,0.957
+No,Women,Pooled,20.87,0.942,0.922,0.958
+No,Women,Pooled,20.93,0.943,0.923,0.960
+No,Women,Pooled,20.97,0.945,0.925,0.961
+No,Women,Pooled,21.03,0.948,0.929,0.964
+No,Women,Pooled,21.83,0.950,0.931,0.965
+No,Women,Pooled,21.93,0.952,0.933,0.967
+No,Women,Pooled,22.13,0.955,0.937,0.970
+No,Women,Pooled,22.33,0.957,0.939,0.971
+No,Women,Pooled,22.37,0.959,0.941,0.972
+No,Women,Pooled,22.80,0.962,0.945,0.975
+No,Women,Pooled,23.33,0.964,0.947,0.977
+No,Women,Pooled,23.67,0.966,0.949,0.978
+No,Women,Pooled,23.90,0.968,0.951,0.980
+No,Women,Pooled,24.30,0.969,0.953,0.981
+No,Women,Pooled,24.70,0.971,0.955,0.982
+No,Women,Pooled,24.80,0.973,0.958,0.984
+No,Women,Pooled,25.10,0.975,0.960,0.985
+No,Women,Pooled,26.40,0.977,0.962,0.987
+No,Women,Pooled,26.97,0.978,0.964,0.988
+No,Women,Pooled,27.63,0.980,0.966,0.989
+No,Women,Pooled,29.17,0.982,0.969,0.991
+No,Women,Pooled,31.27,0.984,0.971,0.992
+No,Women,Pooled,33.00,0.986,0.973,0.993
+No,Women,Pooled,33.80,0.987,0.975,0.994
+No,Women,Pooled,34.53,0.989,0.978,0.995
+No,Women,Pooled,34.73,0.991,0.980,0.997
+No,Women,Pooled,36.17,0.993,0.983,0.998
+No,Women,Pooled,39.30,0.995,0.985,0.998
+No,Women,Pooled,40.90,0.996,0.988,0.999
+No,Women,Pooled,42.50,0.998,0.990,1.000
+No,Women,Pooled,43.90,1.000,1.000,1.000
