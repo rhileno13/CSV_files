@@ -1461,7 +1461,7 @@ Yes,Women,Pooled,36.17,0.994,0.985,0.998
 Yes,Women,Pooled,39.30,0.995,0.987,0.999
 Yes,Women,Pooled,40.90,0.997,0.989,0.999
 Yes,Women,Pooled,42.50,0.998,0.992,1.000
-Yes,Women,Pooled,43.90,1.000,,
+Yes,Women,Pooled,43.90,1.000,1.000,1.000
 No,Men,Ball in/out,0.76,0.001,0.000,0.007
 No,Men,Ball in/out,0.80,0.005,0.002,0.012
 No,Men,Ball in/out,0.84,0.006,0.002,0.014
@@ -2465,7 +2465,7 @@ No,Men,Pooled,26.52,0.993,0.984,0.997
 No,Men,Pooled,27.48,0.994,0.986,0.998
 No,Men,Pooled,28.16,0.996,0.988,0.999
 No,Men,Pooled,28.30,0.997,0.990,0.999
-No,Men,Pooled,29.12,1.000,,
+No,Men,Pooled,29.12,1.000,1.000,1.000
 No,Women,Pooled,1.03,0.002,0.000,0.010
 No,Women,Pooled,1.53,0.003,0.001,0.012
 No,Women,Pooled,1.63,0.004,0.001,0.014
