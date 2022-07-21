@@ -1,0 +1,115 @@
+Pseudo_rallies,Terminal_event,Quantile,Difference,Lower_limit,Upper_limit
+Yes,Ball in/out,.05,0.11,-0.03,0.25
+Yes,Ball in/out,.1,0.34,0.11,0.57
+Yes,Ball in/out,.15,0.65,-0.19,1.50
+Yes,Ball in/out,.2,1.92,0.98,2.86
+Yes,Ball in/out,.25,0.75,0.35,1.15
+Yes,Ball in/out,.3,0.66,0.41,0.91
+Yes,Ball in/out,.35,0.54,0.37,0.71
+Yes,Ball in/out,.4,0.58,0.40,0.76
+Yes,Ball in/out,.45,0.62,0.40,0.84
+Yes,Ball in/out,.5,0.69,0.42,0.95
+Yes,Ball in/out,.55,0.85,0.45,1.25
+Yes,Ball in/out,.6,1.51,0.57,2.44
+Yes,Ball in/out,.65,2.58,1.81,3.35
+Yes,Ball in/out,.7,2.30,1.00,3.60
+Yes,Ball in/out,.75,2.05,1.01,3.08
+Yes,Ball in/out,.8,2.79,1.59,4.00
+Yes,Ball in/out,.85,2.69,1.39,3.98
+Yes,Ball in/out,.9,3.15,1.39,4.90
+Yes,Ball in/out,.95,4.49,2.46,6.51
+Yes,Fault,.05,-0.09,-0.81,0.62
+Yes,Fault,.1,-0.15,-1.01,0.70
+Yes,Fault,.15,0.27,-1.39,1.93
+Yes,Fault,.2,0.30,-2.22,2.82
+Yes,Fault,.25,1.49,-1.46,4.43
+Yes,Fault,.3,2.67,-0.12,5.45
+Yes,Fault,.35,2.79,0.39,5.19
+Yes,Fault,.4,2.95,0.60,5.31
+Yes,Fault,.45,3.15,0.52,5.77
+Yes,Fault,.5,3.80,0.69,6.91
+Yes,Fault,.55,4.04,0.20,7.88
+Yes,Fault,.6,5.31,0.52,10.10
+Yes,Fault,.65,4.39,-0.85,9.63
+Yes,Fault,.7,3.91,-1.42,9.23
+Yes,Fault,.75,3.59,-3.41,10.59
+Yes,Fault,.8,1.89,-9.38,13.17
+Yes,Fault,.85,4.95,-8.99,18.90
+Yes,Fault,.9,8.71,-6.98,24.41
+Yes,Fault,.95,7.05,-4.74,18.85
+Yes,Pooled,.05,0.07,-0.10,0.24
+Yes,Pooled,.1,0.40,0.13,0.67
+Yes,Pooled,.15,0.88,-0.16,1.92
+Yes,Pooled,.2,1.23,0.10,2.37
+Yes,Pooled,.25,0.67,0.38,0.96
+Yes,Pooled,.3,0.65,0.38,0.92
+Yes,Pooled,.35,0.57,0.39,0.76
+Yes,Pooled,.4,0.57,0.38,0.76
+Yes,Pooled,.45,0.61,0.39,0.84
+Yes,Pooled,.5,0.71,0.43,1.00
+Yes,Pooled,.55,0.98,0.40,1.56
+Yes,Pooled,.6,1.97,0.97,2.96
+Yes,Pooled,.65,2.63,1.90,3.36
+Yes,Pooled,.7,2.04,0.84,3.24
+Yes,Pooled,.75,2.07,1.05,3.10
+Yes,Pooled,.8,3.07,2.01,4.14
+Yes,Pooled,.85,2.69,1.47,3.90
+Yes,Pooled,.9,3.18,1.70,4.66
+Yes,Pooled,.95,4.14,2.41,5.87
+No,Ball in/out,.05,0.29,-0.05,0.64
+No,Ball in/out,.1,0.45,0.25,0.65
+No,Ball in/out,.15,0.43,0.25,0.62
+No,Ball in/out,.2,0.43,0.28,0.59
+No,Ball in/out,.25,0.41,0.28,0.55
+No,Ball in/out,.3,0.49,0.33,0.65
+No,Ball in/out,.35,0.50,0.33,0.67
+No,Ball in/out,.4,0.54,0.33,0.75
+No,Ball in/out,.45,0.68,0.37,0.99
+No,Ball in/out,.5,0.87,0.22,1.52
+No,Ball in/out,.55,1.83,0.97,2.68
+No,Ball in/out,.6,2.34,1.60,3.08
+No,Ball in/out,.65,1.46,0.45,2.47
+No,Ball in/out,.7,1.63,0.71,2.55
+No,Ball in/out,.75,2.39,1.23,3.56
+No,Ball in/out,.8,2.54,1.38,3.70
+No,Ball in/out,.85,2.25,0.94,3.56
+No,Ball in/out,.9,3.47,1.39,5.56
+No,Ball in/out,.95,4.36,2.53,6.19
+No,Fault,.05,-0.09,-0.81,0.62
+No,Fault,.1,-0.15,-1.01,0.70
+No,Fault,.15,0.27,-1.39,1.93
+No,Fault,.2,0.30,-2.22,2.82
+No,Fault,.25,1.49,-1.46,4.43
+No,Fault,.3,2.67,-0.12,5.45
+No,Fault,.35,2.79,0.39,5.19
+No,Fault,.4,2.95,0.60,5.31
+No,Fault,.45,3.15,0.52,5.77
+No,Fault,.5,3.80,0.69,6.91
+No,Fault,.55,4.04,0.20,7.88
+No,Fault,.6,5.31,0.52,10.10
+No,Fault,.65,4.39,-0.85,9.63
+No,Fault,.7,3.91,-1.42,9.23
+No,Fault,.75,3.59,-3.41,10.59
+No,Fault,.8,1.89,-9.38,13.17
+No,Fault,.85,4.95,-8.99,18.90
+No,Fault,.9,8.71,-6.98,24.41
+No,Fault,.95,7.05,-4.74,18.85
+No,Pooled,.05,0.23,-0.12,0.59
+No,Pooled,.1,0.45,0.27,0.64
+No,Pooled,.15,0.44,0.25,0.63
+No,Pooled,.2,0.44,0.28,0.60
+No,Pooled,.25,0.41,0.28,0.54
+No,Pooled,.3,0.49,0.34,0.65
+No,Pooled,.35,0.53,0.35,0.72
+No,Pooled,.4,0.61,0.37,0.85
+No,Pooled,.45,0.71,0.34,1.07
+No,Pooled,.5,1.21,0.42,2.00
+No,Pooled,.55,2.05,1.30,2.80
+No,Pooled,.6,2.37,1.53,3.20
+No,Pooled,.65,1.56,0.58,2.54
+No,Pooled,.7,1.83,0.83,2.83
+No,Pooled,.75,2.72,1.45,3.99
+No,Pooled,.8,2.67,1.43,3.90
+No,Pooled,.85,2.14,0.84,3.44
+No,Pooled,.9,3.31,1.36,5.26
+No,Pooled,.95,4.29,2.03,6.55
